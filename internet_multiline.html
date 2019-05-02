@@ -117,6 +117,7 @@
             Use side legend to plot lines, and control years with bottom-selecteur..</a>
         </p>
       </div>
+      <div id="multiline"></div>
       <br><br>
       <br><br>
       <br>
@@ -171,7 +172,7 @@
 
       var maxY; // Defined later to update yAxis
 
-      var svg = d3.select("body").append("svg")
+      var svg = d3.select("#multiline").append("svg")
           .attr("width", width + margin.left + margin.right)
           .attr("height", height + margin.top + margin.bottom) //height + margin.top + margin.bottom
         .append("g")
