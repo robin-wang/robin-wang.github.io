@@ -1,0 +1,2785 @@
+[
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 1676,
+			   "LengthOfHighway": 2.08,
+			   "FreightVolume": 724.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1115,
+			   "LengthOfHighway": 1.15,
+			   "FreightVolume": 15289,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 6943,
+			   "LengthOfHighway": 14.73,
+			   "FreightVolume": 6006.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3393,
+			   "LengthOfHighway": 11.99,
+			   "FreightVolume": 1839.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2429,
+			   "LengthOfHighway": 13.86,
+			   "FreightVolume": 2023.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4298,
+			   "LengthOfHighway": 9.81,
+			   "FreightVolume": 5817.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2730,
+			   "LengthOfHighway": 8.54,
+			   "FreightVolume": 655,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3824,
+			   "LengthOfHighway": 14.09,
+			   "FreightVolume": 1282.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2064,
+			   "LengthOfHighway": 1.12,
+			   "FreightVolume": 16053.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7723,
+			   "LengthOfHighway": 13.37,
+			   "FreightVolume": 3988.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5155,
+			   "LengthOfHighway": 9.98,
+			   "FreightVolume": 4962.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6118,
+			   "LengthOfHighway": 14.84,
+			   "FreightVolume": 1988.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3612,
+			   "LengthOfHighway": 8.69,
+			   "FreightVolume": 2080.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4368,
+			   "LengthOfHighway": 13.05,
+			   "FreightVolume": 1029.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9367,
+			   "LengthOfHighway": 21.22,
+			   "FreightVolume": 6413.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9360,
+			   "LengthOfHighway": 23.87,
+			   "FreightVolume": 2736.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5699,
+			   "LengthOfHighway": 18.38,
+			   "FreightVolume": 1644.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6355,
+			   "LengthOfHighway": 17.54,
+			   "FreightVolume": 1922.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 9660,
+			   "LengthOfHighway": 18.2,
+			   "FreightVolume": 4292.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4768,
+			   "LengthOfHighway": 9.42,
+			   "FreightVolume": 1404.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 845,
+			   "LengthOfHighway": 1.78,
+			   "FreightVolume": 823.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2816,
+			   "LengthOfHighway": 10.47,
+			   "FreightVolume": 1051.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8127,
+			   "LengthOfHighway": 18.94,
+			   "FreightVolume": 1059.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3632,
+			   "LengthOfHighway": 12.32,
+			   "FreightVolume": 721.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4514,
+			   "LengthOfHighway": 20.03,
+			   "FreightVolume": 801.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 289,
+			   "LengthOfHighway": 4.86,
+			   "FreightVolume": 41.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3708,
+			   "LengthOfHighway": 12.13,
+			   "FreightVolume": 1191.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2548,
+			   "LengthOfHighway": 3.62,
+			   "FreightVolume": 1149.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 552,
+			   "LengthOfHighway": 5.26,
+			   "FreightVolume": 176.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 610,
+			   "LengthOfHighway": 2.06,
+			   "FreightVolume": 291.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2095,
+			   "LengthOfHighway": 14.52,
+			   "FreightVolume": 956.1,
+			   "Type_Code": 1
+			 }
+		],
+		"year":"2007"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 1771,
+			   "LengthOfHighway": 2.03,
+			   "FreightVolume": 758.89,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1176,
+			   "LengthOfHighway": 1.21,
+			   "FreightVolume": 2703.44,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 6989,
+			   "LengthOfHighway": 14.95,
+			   "FreightVolume": 5925.48,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3411,
+			   "LengthOfHighway": 12.48,
+			   "FreightVolume": 2562.24,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2444,
+			   "LengthOfHighway": 14.73,
+			   "FreightVolume": 3658.72,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4315,
+			   "LengthOfHighway": 10.11,
+			   "FreightVolume": 7033.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2734,
+			   "LengthOfHighway": 8.71,
+			   "FreightVolume": 1157.78,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3825,
+			   "LengthOfHighway": 15.08,
+			   "FreightVolume": 1690.93,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2141,
+			   "LengthOfHighway": 1.15,
+			   "FreightVolume": 16029.84,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7762,
+			   "LengthOfHighway": 14.09,
+			   "FreightVolume": 4300.95,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5212,
+			   "LengthOfHighway": 10.37,
+			   "FreightVolume": 4974.86,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6135,
+			   "LengthOfHighway": 14.88,
+			   "FreightVolume": 5843.21,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3639,
+			   "LengthOfHighway": 8.86,
+			   "FreightVolume": 2396.21,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4400,
+			   "LengthOfHighway": 13.38,
+			   "FreightVolume": 2285.49,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9417,
+			   "LengthOfHighway": 22.07,
+			   "FreightVolume": 10107.84,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9429,
+			   "LengthOfHighway": 24.06,
+			   "FreightVolume": 5165.07,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5711,
+			   "LengthOfHighway": 18.84,
+			   "FreightVolume": 2526.39,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6380,
+			   "LengthOfHighway": 18.46,
+			   "FreightVolume": 2349.84,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 9893,
+			   "LengthOfHighway": 18.32,
+			   "FreightVolume": 4428.43,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4816,
+			   "LengthOfHighway": 9.93,
+			   "FreightVolume": 2079.02,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 854,
+			   "LengthOfHighway": 1.86,
+			   "FreightVolume": 597.69,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2839,
+			   "LengthOfHighway": 10.86,
+			   "FreightVolume": 1490.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8138,
+			   "LengthOfHighway": 22.45,
+			   "FreightVolume": 1578.66,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3596,
+			   "LengthOfHighway": 12.54,
+			   "FreightVolume": 805.33,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4543,
+			   "LengthOfHighway": 20.38,
+			   "FreightVolume": 821.26,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 292,
+			   "LengthOfHighway": 5.13,
+			   "FreightVolume": 35.49,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3718,
+			   "LengthOfHighway": 13.1,
+			   "FreightVolume": 2027.05,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2551,
+			   "LengthOfHighway": 3.93,
+			   "FreightVolume": 1594.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 554,
+			   "LengthOfHighway": 5.66,
+			   "FreightVolume": 335.66,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 618,
+			   "LengthOfHighway": 2.1,
+			   "FreightVolume": 703.62,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2131,
+			   "LengthOfHighway": 14.67,
+			   "FreightVolume": 1272.97,
+			   "Type_Code": 1
+			 }
+		],
+		"year":"2008"
+	},	
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 1860,
+			   "LengthOfHighway": 2.08,
+			   "FreightVolume": 731.59,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1228,
+			   "LengthOfHighway": 1.43,
+			   "FreightVolume": 9606.61,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7034,
+			   "LengthOfHighway": 15.21,
+			   "FreightVolume": 6405.15,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3427,
+			   "LengthOfHighway": 12.73,
+			   "FreightVolume": 2390.44,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2458,
+			   "LengthOfHighway": 15.08,
+			   "FreightVolume": 4116.91,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4341,
+			   "LengthOfHighway": 10.11,
+			   "FreightVolume": 7753.94,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2740,
+			   "LengthOfHighway": 8.84,
+			   "FreightVolume": 1167.33,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3826,
+			   "LengthOfHighway": 15.15,
+			   "FreightVolume": 1644.68,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2210,
+			   "LengthOfHighway": 1.17,
+			   "FreightVolume": 14372.56,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7810,
+			   "LengthOfHighway": 14.38,
+			   "FreightVolume": 4675.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5276,
+			   "LengthOfHighway": 10.7,
+			   "FreightVolume": 5659.86,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6131,
+			   "LengthOfHighway": 14.92,
+			   "FreightVolume": 6321.71,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3666,
+			   "LengthOfHighway": 8.95,
+			   "FreightVolume": 2471.34,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4432,
+			   "LengthOfHighway": 13.7,
+			   "FreightVolume": 2334.15,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9470,
+			   "LengthOfHighway": 22.67,
+			   "FreightVolume": 11022.22,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9487,
+			   "LengthOfHighway": 24.23,
+			   "FreightVolume": 6153.97,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5720,
+			   "LengthOfHighway": 19.72,
+			   "FreightVolume": 2566.36,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6406,
+			   "LengthOfHighway": 19.14,
+			   "FreightVolume": 2513.28,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10130,
+			   "LengthOfHighway": 18.5,
+			   "FreightVolume": 4769.73,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4856,
+			   "LengthOfHighway": 10.05,
+			   "FreightVolume": 2337.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 864,
+			   "LengthOfHighway": 2,
+			   "FreightVolume": 792.54,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2859,
+			   "LengthOfHighway": 11.1,
+			   "FreightVolume": 1650.49,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8185,
+			   "LengthOfHighway": 24.92,
+			   "FreightVolume": 1590.52,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3537,
+			   "LengthOfHighway": 14.26,
+			   "FreightVolume": 926.05,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4571,
+			   "LengthOfHighway": 20.6,
+			   "FreightVolume": 867.63,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 296,
+			   "LengthOfHighway": 5.38,
+			   "FreightVolume": 35.34,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3727,
+			   "LengthOfHighway": 14.41,
+			   "FreightVolume": 2218.55,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2555,
+			   "LengthOfHighway": 3.98,
+			   "FreightVolume": 1619.48,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 557,
+			   "LengthOfHighway": 6.01,
+			   "FreightVolume": 364.16,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 625,
+			   "LengthOfHighway": 2.18,
+			   "FreightVolume": 750.36,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2159,
+			   "LengthOfHighway": 15.07,
+			   "FreightVolume": 1255.91,
+			   "Type_Code": 1
+			 }
+		],
+		"year":"2009"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 1962,
+			   "LengthOfHighway": 2.11,
+			   "FreightVolume": 876.93,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1299,
+			   "LengthOfHighway": 1.48,
+			   "FreightVolume": 10065.05,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7194,
+			   "LengthOfHighway": 15.43,
+			   "FreightVolume": 8071.11,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3574,
+			   "LengthOfHighway": 13.16,
+			   "FreightVolume": 2840.02,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2472,
+			   "LengthOfHighway": 15.8,
+			   "FreightVolume": 4712.88,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4375,
+			   "LengthOfHighway": 10.15,
+			   "FreightVolume": 9029.08,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2747,
+			   "LengthOfHighway": 9.04,
+			   "FreightVolume": 1282.18,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3833,
+			   "LengthOfHighway": 15.19,
+			   "FreightVolume": 1826.16,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2303,
+			   "LengthOfHighway": 1.2,
+			   "FreightVolume": 18918.15,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7869,
+			   "LengthOfHighway": 15.03,
+			   "FreightVolume": 5589.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5447,
+			   "LengthOfHighway": 11.02,
+			   "FreightVolume": 7117.14,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 5957,
+			   "LengthOfHighway": 14.94,
+			   "FreightVolume": 7153.41,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3693,
+			   "LengthOfHighway": 9.1,
+			   "FreightVolume": 2976.67,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4462,
+			   "LengthOfHighway": 14.06,
+			   "FreightVolume": 2719.47,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9588,
+			   "LengthOfHighway": 22.99,
+			   "FreightVolume": 11832.45,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9405,
+			   "LengthOfHighway": 24.51,
+			   "FreightVolume": 7202.49,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5728,
+			   "LengthOfHighway": 20.62,
+			   "FreightVolume": 3097.29,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6570,
+			   "LengthOfHighway": 22.8,
+			   "FreightVolume": 2926.78,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10441,
+			   "LengthOfHighway": 19.01,
+			   "FreightVolume": 5711.44,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4610,
+			   "LengthOfHighway": 10.18,
+			   "FreightVolume": 2926.76,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 869,
+			   "LengthOfHighway": 2.12,
+			   "FreightVolume": 994.97,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2885,
+			   "LengthOfHighway": 11.69,
+			   "FreightVolume": 2015.59,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8045,
+			   "LengthOfHighway": 26.61,
+			   "FreightVolume": 1807.88,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3479,
+			   "LengthOfHighway": 15.16,
+			   "FreightVolume": 1005.92,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4602,
+			   "LengthOfHighway": 20.92,
+			   "FreightVolume": 947.33,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 300,
+			   "LengthOfHighway": 6.08,
+			   "FreightVolume": 38.53,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3735,
+			   "LengthOfHighway": 14.75,
+			   "FreightVolume": 2464.57,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2560,
+			   "LengthOfHighway": 4.02,
+			   "FreightVolume": 1763.85,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 563,
+			   "LengthOfHighway": 6.22,
+			   "FreightVolume": 419.68,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 633,
+			   "LengthOfHighway": 2.25,
+			   "FreightVolume": 818.64,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2185,
+			   "LengthOfHighway": 15.28,
+			   "FreightVolume": 1358.89,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2010"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2019,
+			   "LengthOfHighway": 2.13,
+			   "FreightVolume": 999.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1355,
+			   "LengthOfHighway": 1.52,
+			   "FreightVolume": 10337.29,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7241,
+			   "LengthOfHighway": 15.7,
+			   "FreightVolume": 9630.43,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3593,
+			   "LengthOfHighway": 13.48,
+			   "FreightVolume": 3062.51,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2482,
+			   "LengthOfHighway": 16.1,
+			   "FreightVolume": 5422.33,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4383,
+			   "LengthOfHighway": 10.4,
+			   "FreightVolume": 10404.55,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2749,
+			   "LengthOfHighway": 9.18,
+			   "FreightVolume": 1452.57,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3834,
+			   "LengthOfHighway": 15.56,
+			   "FreightVolume": 1968.24,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2347,
+			   "LengthOfHighway": 1.21,
+			   "FreightVolume": 20309.56,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7899,
+			   "LengthOfHighway": 15.22,
+			   "FreightVolume": 6957.99,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5463,
+			   "LengthOfHighway": 11.18,
+			   "FreightVolume": 8634.91,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 5968,
+			   "LengthOfHighway": 14.95,
+			   "FreightVolume": 8446.36,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3720,
+			   "LengthOfHighway": 9.23,
+			   "FreightVolume": 3396.78,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4488,
+			   "LengthOfHighway": 14.66,
+			   "FreightVolume": 2985.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9637,
+			   "LengthOfHighway": 23.32,
+			   "FreightVolume": 12684.26,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9388,
+			   "LengthOfHighway": 24.76,
+			   "FreightVolume": 8530.79,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5758,
+			   "LengthOfHighway": 21.27,
+			   "FreightVolume": 3798.84,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6596,
+			   "LengthOfHighway": 23.22,
+			   "FreightVolume": 3369.97,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10505,
+			   "LengthOfHighway": 19.07,
+			   "FreightVolume": 6904.99,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4645,
+			   "LengthOfHighway": 10.49,
+			   "FreightVolume": 3478.23,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 877,
+			   "LengthOfHighway": 2.29,
+			   "FreightVolume": 1368.48,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2919,
+			   "LengthOfHighway": 11.86,
+			   "FreightVolume": 2528.71,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8050,
+			   "LengthOfHighway": 28.33,
+			   "FreightVolume": 2016.17,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3469,
+			   "LengthOfHighway": 15.78,
+			   "FreightVolume": 1060.69,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4631,
+			   "LengthOfHighway": 21.45,
+			   "FreightVolume": 1024.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 303,
+			   "LengthOfHighway": 6.31,
+			   "FreightVolume": 40.02,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3743,
+			   "LengthOfHighway": 15.2,
+			   "FreightVolume": 2824.67,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2564,
+			   "LengthOfHighway": 4.03,
+			   "FreightVolume": 2037.18,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 568,
+			   "LengthOfHighway": 6.43,
+			   "FreightVolume": 486.38,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 639,
+			   "LengthOfHighway": 2.45,
+			   "FreightVolume": 933.03,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2209,
+			   "LengthOfHighway": 15.52,
+			   "FreightVolume": 1475.22,
+			   "Type_Code": 1
+			 }
+		],
+		"year":"2011"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2069,
+			   "LengthOfHighway": 2.15,
+			   "FreightVolume": 1001.13,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1413,
+			   "LengthOfHighway": 1.54,
+			   "FreightVolume": 7844.06,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7288,
+			   "LengthOfHighway": 16.3,
+			   "FreightVolume": 10604.96,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3611,
+			   "LengthOfHighway": 13.78,
+			   "FreightVolume": 3341.13,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2490,
+			   "LengthOfHighway": 16.38,
+			   "FreightVolume": 5870.34,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4389,
+			   "LengthOfHighway": 10.56,
+			   "FreightVolume": 11563.68,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2750,
+			   "LengthOfHighway": 9.32,
+			   "FreightVolume": 1596.11,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3834,
+			   "LengthOfHighway": 15.91,
+			   "FreightVolume": 2002.33,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2380,
+			   "LengthOfHighway": 1.25,
+			   "FreightVolume": 20373.37,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7920,
+			   "LengthOfHighway": 15.41,
+			   "FreightVolume": 7904.05,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5477,
+			   "LengthOfHighway": 11.36,
+			   "FreightVolume": 9183.41,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 5988,
+			   "LengthOfHighway": 16.52,
+			   "FreightVolume": 9817.83,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3748,
+			   "LengthOfHighway": 9.47,
+			   "FreightVolume": 3871.45,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4504,
+			   "LengthOfHighway": 15.06,
+			   "FreightVolume": 3433.53,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9685,
+			   "LengthOfHighway": 24.46,
+			   "FreightVolume": 11077.78,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9406,
+			   "LengthOfHighway": 24.96,
+			   "FreightVolume": 9490.26,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5779,
+			   "LengthOfHighway": 21.82,
+			   "FreightVolume": 4439.82,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6639,
+			   "LengthOfHighway": 23.4,
+			   "FreightVolume": 3976.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10594,
+			   "LengthOfHighway": 19.49,
+			   "FreightVolume": 9566.24,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4682,
+			   "LengthOfHighway": 10.79,
+			   "FreightVolume": 4110.64,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 887,
+			   "LengthOfHighway": 2.43,
+			   "FreightVolume": 1548.05,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2945,
+			   "LengthOfHighway": 12.07,
+			   "FreightVolume": 2653.33,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8076,
+			   "LengthOfHighway": 29.35,
+			   "FreightVolume": 2238.28,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3484,
+			   "LengthOfHighway": 16.45,
+			   "FreightVolume": 1174.72,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4659,
+			   "LengthOfHighway": 21.91,
+			   "FreightVolume": 1123.35,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 308,
+			   "LengthOfHighway": 6.52,
+			   "FreightVolume": 46.17,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3753,
+			   "LengthOfHighway": 16.14,
+			   "FreightVolume": 3192.14,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2578,
+			   "LengthOfHighway": 4.08,
+			   "FreightVolume": 2351.69,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 573,
+			   "LengthOfHighway": 6.6,
+			   "FreightVolume": 527.62,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 647,
+			   "LengthOfHighway": 2.65,
+			   "FreightVolume": 1065.74,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2233,
+			   "LengthOfHighway": 16.59,
+			   "FreightVolume": 1614.5,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2012"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2115,
+			   "LengthOfHighway": 2.17,
+			   "FreightVolume": 1051.14,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1472,
+			   "LengthOfHighway": 1.57,
+			   "FreightVolume": 3097.39,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7333,
+			   "LengthOfHighway": 17.45,
+			   "FreightVolume": 11674.06,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3630,
+			   "LengthOfHighway": 13.94,
+			   "FreightVolume": 3592.38,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2498,
+			   "LengthOfHighway": 16.75,
+			   "FreightVolume": 4461.96,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4390,
+			   "LengthOfHighway": 11.1,
+			   "FreightVolume": 11970.28,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2751,
+			   "LengthOfHighway": 9.42,
+			   "FreightVolume": 1681.35,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3835,
+			   "LengthOfHighway": 16.02,
+			   "FreightVolume": 1930.04,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2415,
+			   "LengthOfHighway": 1.26,
+			   "FreightVolume": 14332.71,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7939,
+			   "LengthOfHighway": 15.61,
+			   "FreightVolume": 9924.59,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5498,
+			   "LengthOfHighway": 11.54,
+			   "FreightVolume": 8951.22,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6030,
+			   "LengthOfHighway": 17.38,
+			   "FreightVolume": 12335.34,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3774,
+			   "LengthOfHighway": 9.95,
+			   "FreightVolume": 3939.61,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4522,
+			   "LengthOfHighway": 15.21,
+			   "FreightVolume": 3640.13,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9733,
+			   "LengthOfHighway": 25.28,
+			   "FreightVolume": 8194.15,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9413,
+			   "LengthOfHighway": 24.98,
+			   "FreightVolume": 7259.81,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5799,
+			   "LengthOfHighway": 22.69,
+			   "FreightVolume": 4751.83,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6691,
+			   "LengthOfHighway": 23.54,
+			   "FreightVolume": 3832.33,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10644,
+			   "LengthOfHighway": 20.29,
+			   "FreightVolume": 9228.55,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4719,
+			   "LengthOfHighway": 11.14,
+			   "FreightVolume": 3856.37,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 895,
+			   "LengthOfHighway": 2.49,
+			   "FreightVolume": 621.04,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2970,
+			   "LengthOfHighway": 12.28,
+			   "FreightVolume": 2298.9,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8107,
+			   "LengthOfHighway": 30.18,
+			   "FreightVolume": 2248.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3502,
+			   "LengthOfHighway": 17.26,
+			   "FreightVolume": 1294.61,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4687,
+			   "LengthOfHighway": 22.29,
+			   "FreightVolume": 1361.92,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 312,
+			   "LengthOfHighway": 7.06,
+			   "FreightVolume": 103.42,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3764,
+			   "LengthOfHighway": 16.52,
+			   "FreightVolume": 3200.56,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2582,
+			   "LengthOfHighway": 4.13,
+			   "FreightVolume": 2361.97,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 578,
+			   "LengthOfHighway": 7.01,
+			   "FreightVolume": 451.95,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 654,
+			   "LengthOfHighway": 2.86,
+			   "FreightVolume": 873.05,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2264,
+			   "LengthOfHighway": 17.02,
+			   "FreightVolume": 1796.79,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2013"
+	},
+	{	
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2152,
+			   "LengthOfHighway": 2.18,
+			   "FreightVolume": 1036.71,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1517,
+			   "LengthOfHighway": 1.61,
+			   "FreightVolume": 3602.38,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7384,
+			   "LengthOfHighway": 17.92,
+			   "FreightVolume": 12684.47,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3648,
+			   "LengthOfHighway": 14.04,
+			   "FreightVolume": 3710.81,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2505,
+			   "LengthOfHighway": 17.22,
+			   "FreightVolume": 4471.08,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4391,
+			   "LengthOfHighway": 11.54,
+			   "FreightVolume": 12235.71,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2752,
+			   "LengthOfHighway": 9.6,
+			   "FreightVolume": 1703.81,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3833,
+			   "LengthOfHighway": 16.25,
+			   "FreightVolume": 1811.09,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2426,
+			   "LengthOfHighway": 1.29,
+			   "FreightVolume": 18633.36,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7960,
+			   "LengthOfHighway": 15.75,
+			   "FreightVolume": 10417.86,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5508,
+			   "LengthOfHighway": 11.64,
+			   "FreightVolume": 9539.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6083,
+			   "LengthOfHighway": 17.44,
+			   "FreightVolume": 13500.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3806,
+			   "LengthOfHighway": 10.12,
+			   "FreightVolume": 4780.22,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4542,
+			   "LengthOfHighway": 15.55,
+			   "FreightVolume": 3827.98,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9789,
+			   "LengthOfHighway": 25.95,
+			   "FreightVolume": 8253.03,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9436,
+			   "LengthOfHighway": 24.99,
+			   "FreightVolume": 7401.12,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5816,
+			   "LengthOfHighway": 23.69,
+			   "FreightVolume": 5503.57,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6737,
+			   "LengthOfHighway": 23.63,
+			   "FreightVolume": 4138.36,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10724,
+			   "LengthOfHighway": 21.21,
+			   "FreightVolume": 14801.03,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4754,
+			   "LengthOfHighway": 11.49,
+			   "FreightVolume": 4089.65,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 903,
+			   "LengthOfHighway": 2.6,
+			   "FreightVolume": 1488.11,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 2991,
+			   "LengthOfHighway": 12.74,
+			   "FreightVolume": 2594.96,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8140,
+			   "LengthOfHighway": 30.97,
+			   "FreightVolume": 2465.13,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3508,
+			   "LengthOfHighway": 17.91,
+			   "FreightVolume": 1441.78,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4714,
+			   "LengthOfHighway": 23.04,
+			   "FreightVolume": 1445.58,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 318,
+			   "LengthOfHighway": 7.55,
+			   "FreightVolume": 110.38,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3775,
+			   "LengthOfHighway": 16.71,
+			   "FreightVolume": 3521.46,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2591,
+			   "LengthOfHighway": 9.56,
+			   "FreightVolume": 2515.47,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 583,
+			   "LengthOfHighway": 7.27,
+			   "FreightVolume": 506.94,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 662,
+			   "LengthOfHighway": 3.13,
+			   "FreightVolume": 836.84,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2298,
+			   "LengthOfHighway": 17.55,
+			   "FreightVolume": 1880.92,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2014"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2171,
+			   "LengthOfHighway": 2.19,
+			   "FreightVolume": 901.41,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1547,
+			   "LengthOfHighway": 1.66,
+			   "FreightVolume": 2519.22,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7425,
+			   "LengthOfHighway": 18.46,
+			   "FreightVolume": 12007.28,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3664,
+			   "LengthOfHighway": 14.1,
+			   "FreightVolume": 3438.55,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2511,
+			   "LengthOfHighway": 17.54,
+			   "FreightVolume": 4190.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4382,
+			   "LengthOfHighway": 12.04,
+			   "FreightVolume": 11711.92,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2753,
+			   "LengthOfHighway": 9.73,
+			   "FreightVolume": 1425.35,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3812,
+			   "LengthOfHighway": 16.32,
+			   "FreightVolume": 1545.35,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2415,
+			   "LengthOfHighway": 1.32,
+			   "FreightVolume": 19495.88,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7976,
+			   "LengthOfHighway": 15.88,
+			   "FreightVolume": 8270.23,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5539,
+			   "LengthOfHighway": 11.8,
+			   "FreightVolume": 9869.72,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6144,
+			   "LengthOfHighway": 18.69,
+			   "FreightVolume": 10402.25,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3839,
+			   "LengthOfHighway": 10.46,
+			   "FreightVolume": 5447.49,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4566,
+			   "LengthOfHighway": 15.66,
+			   "FreightVolume": 3753.48,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9847,
+			   "LengthOfHighway": 26.34,
+			   "FreightVolume": 8418.04,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9480,
+			   "LengthOfHighway": 25.06,
+			   "FreightVolume": 6948.05,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5852,
+			   "LengthOfHighway": 25.3,
+			   "FreightVolume": 5674.13,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6783,
+			   "LengthOfHighway": 23.69,
+			   "FreightVolume": 3895.53,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10849,
+			   "LengthOfHighway": 21.6,
+			   "FreightVolume": 14882.21,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4796,
+			   "LengthOfHighway": 11.8,
+			   "FreightVolume": 4061.82,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 911,
+			   "LengthOfHighway": 2.69,
+			   "FreightVolume": 1181.73,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 3017,
+			   "LengthOfHighway": 14.06,
+			   "FreightVolume": 2709.53,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8204,
+			   "LengthOfHighway": 31.56,
+			   "FreightVolume": 2387.44,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3530,
+			   "LengthOfHighway": 18.64,
+			   "FreightVolume": 1379,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4742,
+			   "LengthOfHighway": 23.6,
+			   "FreightVolume": 1500.27,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 324,
+			   "LengthOfHighway": 7.83,
+			   "FreightVolume": 119.64,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3793,
+			   "LengthOfHighway": 17.01,
+			   "FreightVolume": 3263.52,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2600,
+			   "LengthOfHighway": 10.06,
+			   "FreightVolume": 2225.81,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 588,
+			   "LengthOfHighway": 7.56,
+			   "FreightVolume": 445.58,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 668,
+			   "LengthOfHighway": 3.32,
+			   "FreightVolume": 816.93,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2360,
+			   "LengthOfHighway": 17.83,
+			   "FreightVolume": 1772.94,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2015"
+	},
+	{	
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2173,
+			   "LengthOfHighway": 2.2,
+			   "FreightVolume": 825.43,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1562,
+			   "LengthOfHighway": 1.68,
+			   "FreightVolume": 2302.32,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7470,
+			   "LengthOfHighway": 18.84,
+			   "FreightVolume": 12332.68,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3682,
+			   "LengthOfHighway": 14.21,
+			   "FreightVolume": 3565.46,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2520,
+			   "LengthOfHighway": 19.61,
+			   "FreightVolume": 4341.74,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4378,
+			   "LengthOfHighway": 12.06,
+			   "FreightVolume": 12113.49,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2733,
+			   "LengthOfHighway": 10.25,
+			   "FreightVolume": 1478.52,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3799,
+			   "LengthOfHighway": 16.45,
+			   "FreightVolume": 1532.54,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2420,
+			   "LengthOfHighway": 1.33,
+			   "FreightVolume": 19317.76,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 7999,
+			   "LengthOfHighway": 15.73,
+			   "FreightVolume": 7653.78,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5590,
+			   "LengthOfHighway": 11.91,
+			   "FreightVolume": 9789.33,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6196,
+			   "LengthOfHighway": 19.76,
+			   "FreightVolume": 10896.37,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3874,
+			   "LengthOfHighway": 10.68,
+			   "FreightVolume": 6070.59,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4592,
+			   "LengthOfHighway": 16.19,
+			   "FreightVolume": 3897.75,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 9947,
+			   "LengthOfHighway": 26.57,
+			   "FreightVolume": 8884.34,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9532,
+			   "LengthOfHighway": 26.74,
+			   "FreightVolume": 7383.54,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5885,
+			   "LengthOfHighway": 26.02,
+			   "FreightVolume": 5922.87,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6822,
+			   "LengthOfHighway": 23.83,
+			   "FreightVolume": 4056.86,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 10999,
+			   "LengthOfHighway": 21.81,
+			   "FreightVolume": 21801.65,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4838,
+			   "LengthOfHighway": 12.05,
+			   "FreightVolume": 4260.41,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 917,
+			   "LengthOfHighway": 2.82,
+			   "FreightVolume": 1060.75,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 3048,
+			   "LengthOfHighway": 14.29,
+			   "FreightVolume": 2968.29,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8262,
+			   "LengthOfHighway": 32.41,
+			   "FreightVolume": 2504.11,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3555,
+			   "LengthOfHighway": 19.16,
+			   "FreightVolume": 1482.28,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4771,
+			   "LengthOfHighway": 23.81,
+			   "FreightVolume": 1600.07,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 331,
+			   "LengthOfHighway": 8.21,
+			   "FreightVolume": 124.63,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3813,
+			   "LengthOfHighway": 17.25,
+			   "FreightVolume": 3444.92,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2610,
+			   "LengthOfHighway": 10.56,
+			   "FreightVolume": 2170.05,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 593,
+			   "LengthOfHighway": 7.86,
+			   "FreightVolume": 475.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 675,
+			   "LengthOfHighway": 3.39,
+			   "FreightVolume": 819.94,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2398,
+			   "LengthOfHighway": 18.21,
+			   "FreightVolume": 1803.88,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2016"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "municipality",
+			   "Population": 2171,
+			   "LengthOfHighway": 2.22,
+			   "FreightVolume": 958.42,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "municipality",
+			   "Population": 1557,
+			   "LengthOfHighway": 1.65,
+			   "FreightVolume": 2169.54,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "coastal",
+			   "Population": 7520,
+			   "LengthOfHighway": 19.17,
+			   "FreightVolume": 13381.59,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "interior",
+			   "Population": 3702,
+			   "LengthOfHighway": 14.29,
+			   "FreightVolume": 4185.03,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "autonomous",
+			   "Population": 2529,
+			   "LengthOfHighway": 19.94,
+			   "FreightVolume": 5146.76,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "coastal",
+			   "Population": 4369,
+			   "LengthOfHighway": 12.27,
+			   "FreightVolume": 12757.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "interior",
+			   "Population": 2717,
+			   "LengthOfHighway": 10.39,
+			   "FreightVolume": 1634.65,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "interior",
+			   "Population": 3789,
+			   "LengthOfHighway": 16.6,
+			   "FreightVolume": 1657.69,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "municipality",
+			   "Population": 2418,
+			   "LengthOfHighway": 1.33,
+			   "FreightVolume": 24998.71,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "coastal",
+			   "Population": 8029,
+			   "LengthOfHighway": 15.85,
+			   "FreightVolume": 9057.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "coastal",
+			   "Population": 5657,
+			   "LengthOfHighway": 12.01,
+			   "FreightVolume": 10106.23,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "interior",
+			   "Population": 6255,
+			   "LengthOfHighway": 20.33,
+			   "FreightVolume": 11429.77,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "coastal",
+			   "Population": 3911,
+			   "LengthOfHighway": 10.8,
+			   "FreightVolume": 6779.76,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "interior",
+			   "Population": 4622,
+			   "LengthOfHighway": 16.23,
+			   "FreightVolume": 4217.34,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "coastal",
+			   "Population": 10006,
+			   "LengthOfHighway": 27.06,
+			   "FreightVolume": 9719.46,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "interior",
+			   "Population": 9559,
+			   "LengthOfHighway": 26.78,
+			   "FreightVolume": 8228.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "interior",
+			   "Population": 5902,
+			   "LengthOfHighway": 26.95,
+			   "FreightVolume": 6344.76,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "interior",
+			   "Population": 6860,
+			   "LengthOfHighway": 23.97,
+			   "FreightVolume": 4300.74,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "coastal",
+			   "Population": 11169,
+			   "LengthOfHighway": 21.96,
+			   "FreightVolume": 27919.79,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "autonomous",
+			   "Population": 4885,
+			   "LengthOfHighway": 12.33,
+			   "FreightVolume": 4613.32,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "coastal",
+			   "Population": 926,
+			   "LengthOfHighway": 3.07,
+			   "FreightVolume": 864.26,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "municipality",
+			   "Population": 3075,
+			   "LengthOfHighway": 14.79,
+			   "FreightVolume": 3374.34,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "interior",
+			   "Population": 8302,
+			   "LengthOfHighway": 33,
+			   "FreightVolume": 2696.17,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "interior",
+			   "Population": 3580,
+			   "LengthOfHighway": 19.44,
+			   "FreightVolume": 1656.48,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "interior",
+			   "Population": 4801,
+			   "LengthOfHighway": 24.25,
+			   "FreightVolume": 1824.96,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "autonomous",
+			   "Population": 337,
+			   "LengthOfHighway": 8.93,
+			   "FreightVolume": 136.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "interior",
+			   "Population": 3835,
+			   "LengthOfHighway": 17.44,
+			   "FreightVolume": 3760.64,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "interior",
+			   "Population": 2626,
+			   "LengthOfHighway": 11.4,
+			   "FreightVolume": 2439.66,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "interior",
+			   "Population": 598,
+			   "LengthOfHighway": 8.09,
+			   "FreightVolume": 519.46,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "autonomous",
+			   "Population": 682,
+			   "LengthOfHighway": 3.46,
+			   "FreightVolume": 753.72,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "autonomous",
+			   "Population": 2445,
+			   "LengthOfHighway": 18.53,
+			   "FreightVolume": 2176.35,
+			   "Type_Code": 1
+			 }
+			],	
+		"year":"2017"
+	}	
+]		

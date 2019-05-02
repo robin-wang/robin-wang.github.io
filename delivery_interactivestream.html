@@ -1,0 +1,372 @@
+<!-- Interactive Streamgraph For E-Commerce Delivery Business Impact -->
+<!-- Adapted from William Turman's Interactive Streamgraph
+http://bl.ocks.org/WillTurman/4631136
+Inherited Features:
+  Series Hover & Data Tooltip
+  Vertical Line
+Modified:
+  Colour & legend
+  Interactivity based on sub-level data, rather than graph legend/colour unit
+-->
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="css/customise_style.css">
+    <script src="http://d3js.org/d3.v2.js"></script>
+
+    <style>
+      body {
+        font: 10px sans-serif;
+      }
+      .chart {
+        background: #fff;
+      }
+      p {
+        font: 12px helvetica;
+      }
+      .axis path, .axis line {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        shape-rendering: crispEdges;
+      }
+      button {
+        position: absolute;
+        right: 50px;
+        top: 10px;
+      }
+    </style>
+    <style>
+      .icons {
+        width: 300px;
+        margin: 10px auto 0;
+        padding: 10px;cursor: pointer;}
+      .icon{padding: 5px;width:80px;}
+      .tooltip {
+            position: absolute;
+            z-index: 9999;
+            padding: 0;
+            color: #000;
+            font-size: 13px;
+            text-align: left;
+            border-radius: 2px;
+            pointer-events: none;
+      }
+      .clip-svg {
+        width: 0;
+        height: 0;
+      }
+      .clip-polygon {
+                -webkit-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+                clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+                -webkit-clip-path: url("#clip-svg");
+                clip-path: url("#clip-svg");
+      }
+    </style>
+    <title>E-Commerce in China - Parcel Delivery</title>
+  </head>
+
+  <body>
+    <!-- navigation bar -->
+    <div style="position:fixed;width:100%;z-index:1;top:0">
+      <div class="style-bar style-white style-card" id="myNavbar" style="min-width: 800px;">
+        <a href="index.html" class="style-bar-item style-button style-wide">HOME</a>
+        <!-- Right-sided navbar links -->
+        <div class="style-right style-hide-small">
+          <a href="index.html#gallery" class="style-bar-item style-button">Gallery</a>
+          <a href="infrastructure_bubble.html" class="style-bar-item style-button"><i class="fa fa-user"></i> Infrastructure</a>
+          <a href="internet_multiline.html" class="style-bar-item style-button"><i class="fa fa-th"></i> Internet</a>
+          <a href="enterprise_sunburst.html" class="style-bar-item style-button"><i class="fa fa-th"></i> Business</a>
+          <a href="delivery_interactivestream.html" class="style-bar-item style-button"><i class="fa fa-th"></i> Delivery</a>
+          <a href="ecommerce_bubble.html" class="style-bar-item style-button"><i class="fa fa-usd"></i> E-Commerce</a>
+          <a href="ProjectInfo_Author.html" class="style-bar-item style-button"><i class="fa fa-envelope"></i> Author</a>
+        </div>
+        <a href="javascript:void(0)" class="style-bar-item style-button style-hide-large style-hide-medium" style="float:right!important;" onclick="w3_open()">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+    </div>
+
+    <div class="style-display-container style-container" style="padding:24px 16px; margin-left:0px; margin-bottom:40px;float:left;">
+      <div class="style-display-topleft style-text-white" style="padding:24px 48px; margin-left:0px;float:left;">
+        <p>
+          <a class="style-black padding-large style-medium" style="margin-left:0px;margin-top:25px;margin-left:50px;float:left;opacity:0.8;width:290px;">
+            Express Parcel Delivery Services</a>
+          <a class="style-black style-medium" style=" margin-left:0px;margin-top:5px;margin-left:50px;margin-bottom:120px;float:left;opacity:0.8;padding:4px 30px;width:290px;">
+            An explosion around the coast...</a>
+        </p>
+      </div>
+      <br><br>
+      <br><br>
+      <br>
+    </div>
+    <div class="chart"></div>
+
+    <script>
+      chart("data/delivery_interactivestream.csv", "urban-style");
+
+      var datearray = [];
+      var colorrange = [];
+      function chart(csvpath, color) {
+
+        if (color == "blue") {
+          colorrange = ["#045A8D", "#2B8CBE", "#74A9CF", "#A6BDDB", "#D0D1E6", "#F1EEF6"];
+        }
+        else if (color == "pink") {
+          colorrange = ["#980043", "#DD1C77", "#DF65B0", "#C994C7", "#D4B9DA", "#F1EEF6"];
+        }
+        else if (color == "orange") {
+          colorrange = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"];
+        }
+        else if (color == "urban-style") {
+          colorbase = ["#fdbf11","#1696d2","#d2d2d2","#ec008b"];
+          //Set array for colour code for 31 regions (x - 1 in javascript)
+          var array = [3,3,1,2,0,1,2,2,3,1,1,2,1,2,1,2,2,2,1,1,1,3,2,2,2,0,2,2,2,0,0]
+          var colorrange = [
+          colorbase[array[0]],colorbase[array[1]],colorbase[array[2]],colorbase[array[3]],
+          colorbase[array[4]],colorbase[array[5]],colorbase[array[6]],colorbase[array[7]],
+          colorbase[array[8]],colorbase[array[9]],colorbase[array[10]],colorbase[array[11]],
+          colorbase[array[12]],colorbase[array[13]],colorbase[array[14]],colorbase[array[15]],
+          colorbase[array[16]],colorbase[array[17]],colorbase[array[18]],colorbase[array[19]],
+          colorbase[array[20]],colorbase[array[21]],colorbase[array[22]],colorbase[array[23]],
+          colorbase[array[24]],colorbase[array[25]],colorbase[array[26]],colorbase[array[27]],
+          colorbase[array[28]],colorbase[array[29]],colorbase[array[30]]]
+        }
+        strokecolor = colorrange[0];
+        var format = d3.time.format("%y");
+
+        var margin = {top: 20, right: 60, bottom: 30, left: 60};
+        var width = document.body.clientWidth - margin.left - margin.right;
+        var height = 400 - margin.top - margin.bottom;
+
+        var tooltip = d3.select("body")
+            .append("div")
+            .attr("class", "remove")
+            .style("position", "absolute")
+            .style("z-index", "20")
+            .style("visibility", "hidden")
+            .style("top", "200px")
+            .style("left", "200px");
+
+        var x = d3.time.scale()
+            .range([0, width]);
+
+        var y = d3.scale.linear()
+            .range([height-10, 0]);
+
+        var z = d3.scale.ordinal()
+            .range(colorrange);
+
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom");
+            //.ticks(d3.time.format("%y"));
+            //.ticks(d3.time.weeks);
+
+        var yAxis = d3.svg.axis()
+            .scale(y);
+
+        var yAxisr = d3.svg.axis()
+            .scale(y);
+
+        var stack = d3.layout.stack()
+            .offset("silhouette")
+            .values(function(d) {
+              return d.values;
+            })
+            .x(function(d) {
+              return d.date;
+            })
+            .y(function(d) { return d.value; });
+
+        var nest = d3.nest()
+            .key(function(d) { return d.key; });
+
+        //enclosed cardinal interpolation
+        var area = d3.svg.area()
+            .interpolate("cardinal")
+            .x(function(d) { return x(d.date); })
+            .y0(function(d) { return y(d.y0); })
+            .y1(function(d) { return y(d.y0 + d.y); });
+
+        var svg = d3.select(".chart").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        var graph = d3.csv(csvpath, function(data) {
+          data.forEach(function(d) {
+            d.date = format.parse(d.date);
+            d.value = +d.value;
+          });
+
+          var layers = stack(nest.entries(data));
+
+          x.domain(d3.extent(data, function(d) { return d.date; }));
+          //Stackie y + y0
+          y.domain([0, d3.max(data, function(d) { return d.y0 + d.y; })]);
+
+          svg.selectAll(".layer")
+              .data(layers)
+            .enter().append("path")
+              .attr("class", "layer")
+              .attr("d", function(d) {
+                return area(d.values); })
+              .style("fill", function(d, i) { return z(i); });
+
+          //Axes
+          svg.append("g")
+              .attr("class", "x axis")
+              .attr("transform", "translate(0," + height + ")")
+              .call(xAxis);
+
+          svg.append("g")
+              .attr("class", "y axis")
+              .attr("transform", "translate(" + width + ", 0)")
+              .call(yAxis.orient("right"));
+
+          svg.append("g")
+              .attr("class", "y axis")
+              .call(yAxis.orient("left"));
+
+          //Legend
+          var types=["autonomous","coastal","interior","municipality"];
+          var colours = ["#fdbf11","#1696d2","#d2d2d2","#ec008b"];
+          var legend = svg.append("g")
+                          .attr("transform","translate(" + (25) +
+                                                ", " + (height-125) + ")");
+          types.forEach(function(type,i){
+            var legendRow = legend.append("g")
+                  .attr("transform","translate(0," + (i*20) + ")");
+
+            var positionType = types.indexOf(type);
+            legendRow.append("rect")
+              .attr("width","10")
+              .attr("height","10")
+              .attr("fill",colours[positionType]);
+
+            legendRow.append("text")
+                .attr("x", 14)
+                .attr("y", 10)
+                .attr("text-anchor","start")
+                .style("text-transform","capitalize")
+                .text(type);
+          });
+
+          //Hover Transition
+          svg.selectAll(".layer")
+            .attr("opacity", 1)
+            .on("mouseover", function(d, i) {
+          svg.selectAll(".layer").transition()
+            .duration(250)
+            .attr("opacity", function(d, j) {
+              return j != i ? 0.6 : 1;
+            })})
+
+            .on("mousemove", function(d, i) {
+              mousex = d3.mouse(this);
+              mousex = mousex[0];
+              var invertedx = x.invert(mousex);
+
+              //invertedx = invertedx.getMonth() + invertedx.getDate();
+              //Transition with Year
+              invertedx = invertedx.getFullYear();
+              var selectedregion = (d.values);
+              for (var k = 0; k < selectedregion.length; k++) {
+                datearray[k] = selectedregion[k].date
+                //datearray[k] = datearray[k].getMonth() + datearray[k].getDate();
+                datearray[k] = datearray[k].getFullYear();
+              }
+              mousedate = datearray.indexOf(invertedx); //rounding to next one, otherwise showing as -1
+              pro = d.values[mousedate].value;
+              tooltipyear = d.values[mousedate].date.getFullYear();
+
+              d3.select(this)
+              .classed("hover", true)
+              .attr("stroke", strokecolor)
+              .attr("stroke-width", "0.5px"),
+              tooltip.html( "<p>" + d.key + "<br>"
+                          + tooltipyear + ": " + pro + "<br>(1,000 of express delivery parcels)</p>" )
+                      .style("visibility", "visible");
+            })
+            .on("mouseout", function(d, i) {
+             svg.selectAll(".layer")
+              .transition()
+              .duration(250)
+              .attr("opacity", "1");
+            d3.select(this)
+              .classed("hover", false)
+              .attr("stroke-width", "1px"), tooltip.html( "<p>" + d.key + "<br>" + pro + "</p>" )
+              .style("visibility", "hidden");
+          })
+
+          var vertical = d3.select(".chart")
+                .append("div")
+                .attr("class", "remove")
+                .style("position", "absolute")
+                .style("z-index", "19")
+                .style("width", "1px")
+                .style("height", "380px")
+                .style("top", "10px")
+                .style("bottom", "30px")
+                .style("left", "0px")
+                .style("background", "#fff");
+
+          d3.select(".chart")
+              .on("mousemove", function(){
+                 mousex = d3.mouse(this);
+                 mousex = mousex[0] + 5;
+                 vertical.style("left", mousex + "px" )})
+              .on("mouseover", function(){
+                 mousex = d3.mouse(this);
+                 mousex = mousex[0] + 5;
+                 vertical.style("left", mousex + "px")});
+        });
+      }
+    </script>
+  </body>
+  <footer class="position-middle style-container style-white">
+    <svg width="0" height="0" viewBox="0 0 216 216" style="color:red;">
+        <path id="twitter" d="M214.6,0H1.4C0.6,0,0,0.6,0,1.4v213.1c0,0.8,0.6,1.4,1.4,1.4h213.1c0.8,0,1.4-0.6,1.4-1.4V1.4
+            C216,0.6,215.4,0,214.6,0z M181,70.6c0.1,1.6,0.1,3.2,0.1,4.9c0,49.8-37.9,107.2-107.2,107.2c-21.3,0-41.1-6.2-57.7-16.9
+            c2.9,0.3,5.9,0.5,9,0.5c17.6,0,33.9-6,46.8-16.1c-16.5-0.3-30.4-11.2-35.2-26.2c2.3,0.4,4.7,0.7,7.1,0.7c3.4,0,6.8-0.5,9.9-1.3
+            c-17.2-3.5-30.2-18.7-30.2-36.9c0-0.2,0-0.3,0-0.5c5.1,2.8,10.9,4.5,17.1,4.7c-10.1-6.8-16.8-18.3-16.8-31.4
+            c0-6.9,1.9-13.4,5.1-18.9c18.6,22.8,46.3,37.8,77.6,39.4c-0.6-2.8-1-5.6-1-8.6c0-20.8,16.9-37.7,37.7-37.7
+            c10.8,0,20.6,4.6,27.5,11.9c8.6-1.7,16.6-4.8,23.9-9.1c-2.8,8.8-8.8,16.2-16.6,20.8c7.6-0.9,14.9-2.9,21.6-5.9
+            C194.8,58.6,188.4,65.2,181,70.6z"/>
+        <path id="linkedin" d="M214.6,0H1.4C0.6,0,0,0.6,0,1.4v213.1c0,0.8,0.6,1.4,1.4,1.4h213.1c0.8,0,1.4-0.6,1.4-1.4V1.4
+            C216,0.6,215.4,0,214.6,0z M65.3,185.2H33.3V82.1h32.1V185.2z M49.3,68C39,68,30.7,59.7,30.7,49.4c0-10.2,8.3-18.6,18.6-18.6
+            c10.2,0,18.6,8.3,18.6,18.6C67.8,59.7,59.5,68,49.3,68z M185.3,185.2h-32V135c0-12-0.2-27.3-16.7-27.3c-16.7,0-19.2,13-19.2,26.5v51
+            h-32V82.1h30.7v14.1h0.4c4.3-8.1,14.7-16.6,30.3-16.6c32.4,0,38.4,21.3,38.4,49.1V185.2z"/>
+        <path id="github" d="M214.6,0H1.4C0.6,0,0,0.6,0,1.4v213.1c0,0.8,0.6,1.4,1.4,1.4h213.1c0.8,0,1.4-0.6,1.4-1.4V1.4
+            C216,0.6,215.4,0,214.6,0z M135.3,198.2v-21.6c0-10.7-4.6-16.4-8.9-19.3c24.1-2.6,50-11.2,50-52.9c0-11.7-4.1-21.3-11.1-28.7
+            c1.2-2.8,4.8-13.6-1.1-28.4c0,0-8.9-2.9-29.3,11c-8.6-2.3-17.8-3.5-26.8-3.6c-9.1,0.1-18.3,1.3-26.8,3.6c-20.4-13.8-29.4-11-29.4-11
+            C46,62,49.7,72.8,50.8,75.6c-6.8,7.4-10.9,17-10.9,28.7c0,41.8,25.8,50.5,50,53c-1.7,0.5-6.9,1.9-8.3,8.6
+            c-4.6,2.2-19.3,7.8-28.3-7.5c0,0-5-9-14.5-9.7c0,0-9.2-0.1-0.6,5.7c0,0,6.2,2.9,10.4,13.8c0,0,5.6,18.6,32.4,12.5v17.3
+            c-37.5-12.2-64.7-47.2-64.7-88.5c0-50.7,41.1-91.8,91.7-91.8c50.7,0,91.9,41.1,91.9,91.8C199.8,150.9,172.7,185.8,135.3,198.2z"/>
+    </svg>
+    <div class="icons">
+      <a href="https://twitter.com/Ruobing_Wang">
+        <svg class="icon" viewBox="0 0 216 216" >
+          <use xlink:href="#twitter"></use>
+        </svg>
+      </a>
+      <a href="https://www.linkedin.com/in/robin0wang/">
+        <svg class="icon" viewBox="0 0 216 216">
+          <use xlink:href="#linkedin"></use>
+        </svg>
+      </a>
+      <a href="https://github.com/robin-wang">
+        <svg class="icon" viewBox="0 0 216 216">
+          <use xlink:href="#github"></use>
+        </svg>
+      </a>
+    </div>
+  </footer>
+</html>

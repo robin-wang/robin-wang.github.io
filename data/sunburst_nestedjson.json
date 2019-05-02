@@ -1,0 +1,201 @@
+
+{
+	"name":"E-Commerce Enterprises with Transactions",
+	"children": [
+		{"name": 2013,
+			"children": [
+				{"name": "municipality", "children":
+					[{"name": "Beijing", "value": 2576},
+					{"name": "Tianjin", "value": 924},
+					{"name": "Shanghai", "value": 1959},
+					{"name": "Chongqing", "value": 640}]},
+				{"name": "coastal", "children":
+					[{"name": "Hebei", "value": 682},
+					{"name": "Liaoning", "value": 766},
+					{"name": "Jiangsu", "value": 5848},
+					{"name": "Zhejiang", "value": 8713},
+					{"name": "Fujian", "value": 1937},
+					{"name": "Shandong", "value": 3685},
+					{"name": "Guangdong", "value": 6787},
+					{"name": "Guangxi", "value": 489},
+					{"name": "Hainan", "value": 131}]},
+				{"name": "interior", "children":
+					[{"name": "Shanxi", "value": 233},
+					{"name": "Jilin", "value": 195},
+					{"name": "Heilongjiang", "value": 173},
+					{"name": "Anhui", "value": 1506},
+					{"name": "Jiangxi", "value": 494},
+					{"name": "Henan", "value": 1193},
+					{"name": "Hubei", "value": 6787},
+					{"name": "Hunan", "value": 489},
+					{"name": "Sichuan", "value": 1171},
+					{"name": "Guizhou", "value": 295},
+					{"name": "Yunnan", "value": 407},
+					{"name": "Shaanxi", "value": 354},
+					{"name": "Gansu", "value": 203},
+					{"name": "Qinghai", "value": 41}]},
+				{"name": "autonomous", "children":
+					[{"name": "Inner Mongolia", "value": 205},
+					{"name": "Tibet", "value": 18},
+					{"name": "Ningxia", "value": 109},
+					{"name": "Xinjiang", "value": 176}]}
+				]
+		},
+		{"name": 2014,
+			"children": [
+				{"name": "municipality", "children":
+					[{"name": "Beijing", "value": 4361},
+					{"name": "Tianjin", "value": 1275},
+					{"name": "Shanghai", "value": 3115},
+					{"name": "Chongqing", "value": 1227}]},
+				{"name": "coastal", "children":
+					[{"name": "Hebei", "value": 1250},
+					{"name": "Liaoning", "value": 1061},
+					{"name": "Jiangsu", "value": 9013},
+					{"name": "Zhejiang", "value": 9667},
+					{"name": "Fujian", "value": 2928},
+					{"name": "Shandong", "value": 4570},
+					{"name": "Guangdong", "value": 8222},
+					{"name": "Guangxi", "value": 894},
+					{"name": "Hainan", "value": 327}]},
+				{"name": "interior", "children":
+					[{"name": "Shanxi", "value": 521},
+					{"name": "Jilin", "value": 265},
+					{"name": "Heilongjiang", "value": 344},
+					{"name": "Anhui", "value": 3123},
+					{"name": "Jiangxi", "value": 896},
+					{"name": "Henan", "value": 1965},
+					{"name": "Hubei", "value": 8222},
+					{"name": "Hunan", "value": 894},
+					{"name": "Sichuan", "value": 2198},
+					{"name": "Guizhou", "value": 559},
+					{"name": "Yunnan", "value": 785},
+					{"name": "Shaanxi", "value": 821},
+					{"name": "Gansu", "value": 380},
+					{"name": "Qinghai", "value": 79}]},
+				{"name": "autonomous", "children":
+					[{"name": "Inner Mongolia", "value": 373},
+					{"name": "Tibet", "value": 49},
+					{"name": "Ningxia", "value": 222},
+					{"name": "Xinjiang", "value": 373}]}
+			]
+		},
+		{"name": 2015,
+			"children": [
+				{"name": "municipality", "children":
+					[{"name": "Beijing", "value": 5350},
+					{"name": "Tianjin", "value": 1655},
+					{"name": "Shanghai", "value": 4231},
+					{"name": "Chongqing", "value": 1901}]},
+				{"name": "coastal", "children":
+					[{"name": "Hebei", "value": 1888},
+					{"name": "Liaoning", "value": 1599},
+					{"name": "Jiangsu", "value": 11257},
+					{"name": "Zhejiang", "value": 10707},
+					{"name": "Fujian", "value": 4070},
+					{"name": "Shandong", "value": 5550},
+					{"name": "Guangdong", "value": 10774},
+					{"name": "Guangxi", "value": 1202},
+					{"name": "Hainan", "value": 439}]},
+				{"name": "interior", "children":
+					[{"name": "Shanxi", "value": 840},
+					{"name": "Jilin", "value": 544},
+					{"name": "Heilongjiang", "value": 480},
+					{"name": "Anhui", "value": 4573},
+					{"name": "Jiangxi", "value": 1848},
+					{"name": "Henan", "value": 2928},
+					{"name": "Hubei", "value": 10774},
+					{"name": "Hunan", "value": 1202},
+					{"name": "Sichuan", "value": 3574},
+					{"name": "Guizhou", "value": 1092},
+					{"name": "Yunnan", "value": 1313},
+					{"name": "Shaanxi", "value": 1413},
+					{"name": "Gansu", "value": 627},
+					{"name": "Qinghai", "value": 164}]},
+				{"name": "autonomous", "children":
+					[{"name": "Inner Mongolia", "value": 611},
+					{"name": "Tibet", "value": 76},
+					{"name": "Ningxia", "value": 331},
+					{"name": "Xinjiang", "value": 571}]}
+			]
+		},
+		{"name": 2016,
+			"children": [
+				{"name": "municipality", "children":
+					[{"name": "Beijing", "value": 5661},
+					{"name": "Tianjin", "value": 1575},
+					{"name": "Shanghai", "value": 3979},
+					{"name": "Chongqing", "value": 2716}]},
+				{"name": "coastal", "children":
+					[{"name": "Hebei", "value": 2473},
+					{"name": "Liaoning", "value": 1453},
+					{"name": "Jiangsu", "value": 10008},
+					{"name": "Zhejiang", "value": 12240},
+					{"name": "Fujian", "value": 5158},
+					{"name": "Shandong", "value": 8358},
+					{"name": "Guangdong", "value": 11542},
+					{"name": "Guangxi", "value": 1660},
+					{"name": "Hainan", "value": 521}]},
+				{"name": "interior", "children":
+					[{"name": "Shanxi", "value": 1110},
+					{"name": "Jilin", "value": 807},
+					{"name": "Heilongjiang", "value": 618},
+					{"name": "Anhui", "value": 5001},
+					{"name": "Jiangxi", "value": 1637},
+					{"name": "Henan", "value": 4011},
+					{"name": "Hubei", "value": 11542},
+					{"name": "Hunan", "value": 1660},
+					{"name": "Sichuan", "value": 5120},
+					{"name": "Guizhou", "value": 1767},
+					{"name": "Yunnan", "value": 1996},
+					{"name": "Shaanxi", "value": 2300},
+					{"name": "Gansu", "value": 886},
+					{"name": "Qinghai", "value": 233}]},
+				{"name": "autonomous", "children":
+					[{"name": "Inner Mongolia", "value": 861},
+					{"name": "Tibet", "value": 109},
+					{"name": "Ningxia", "value": 371},
+					{"name": "Xinjiang", "value": 628}]}
+			]
+		},
+		{"name": 2017,
+			"children": [
+				{"name": "municipality", "children":
+					[{"name": "Beijing", "value": 6028},
+					{"name": "Tianjin", "value": 1122},
+					{"name": "Shanghai", "value": 3556},
+					{"name": "Chongqing", "value": 2513}]},
+				{"name": "coastal", "children":
+					[{"name": "Hebei", "value": 2106},
+					{"name": "Liaoning", "value": 1149},
+					{"name": "Jiangsu", "value": 8468},
+					{"name": "Zhejiang", "value": 10775},
+					{"name": "Fujian", "value": 4887},
+					{"name": "Shandong", "value": 7445},
+					{"name": "Guangdong", "value": 10922},
+					{"name": "Guangxi", "value": 1473},
+					{"name": "Hainan", "value": 424}]},
+				{"name": "interior", "children":
+					[{"name": "Shanxi", "value": 904},
+					{"name": "Jilin", "value": 717},
+					{"name": "Heilongjiang", "value": 457},
+					{"name": "Anhui", "value": 4510},
+					{"name": "Jiangxi", "value": 1925},
+					{"name": "Henan", "value": 3672},
+					{"name": "Hubei", "value": 10922},
+					{"name": "Hunan", "value": 1473},
+					{"name": "Sichuan", "value": 4459},
+					{"name": "Guizhou", "value": 1657},
+					{"name": "Yunnan", "value": 1742},
+					{"name": "Shaanxi", "value": 2311},
+					{"name": "Gansu", "value": 578},
+					{"name": "Qinghai", "value": 192}]},
+				{"name": "autonomous", "children":
+					[{"name": "Inner Mongolia", "value": 630},
+					{"name": "Tibet", "value": 89},
+					{"name": "Ningxia", "value": 299},
+					{"name": "Xinjiang", "value": 536}]}
+			]
+		}
+	]
+}

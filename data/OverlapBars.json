@@ -1,0 +1,4220 @@
+[
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 2678.82,
+			   "ConsumerRetailSales": 1313.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 1500.95,
+			   "ConsumerRetailSales": 657.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 4514.19,
+			   "ConsumerRetailSales": 1458.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 1667.1,
+			   "ConsumerRetailSales": 587.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1379.31,
+			   "ConsumerRetailSales": 437.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 4171.69,
+			   "ConsumerRetailSales": 1696.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 1672.96,
+			   "ConsumerRetailSales": 734,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 2866.3,
+			   "ConsumerRetailSales": 1016.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 4188.73,
+			   "ConsumerRetailSales": 1590.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 7697.82,
+			   "ConsumerRetailSales": 2394.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 5443.92,
+			   "ConsumerRetailSales": 2075.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 2712.34,
+			   "ConsumerRetailSales": 979.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 3414.19,
+			   "ConsumerRetailSales": 1246.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 1853.65,
+			   "ConsumerRetailSales": 650.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 7493.84,
+			   "ConsumerRetailSales": 2310.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 4517.94,
+			   "ConsumerRetailSales": 1616,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 3229.29,
+			   "ConsumerRetailSales": 1617.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 3214.54,
+			   "ConsumerRetailSales": 1229.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 9250.68,
+			   "ConsumerRetailSales": 3656,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1971.41,
+			   "ConsumerRetailSales": 791.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 476.67,
+			   "ConsumerRetailSales": 157.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 1663.2,
+			   "ConsumerRetailSales": 596.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 3649.12,
+			   "ConsumerRetailSales": 1382.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 937.5,
+			   "ConsumerRetailSales": 313.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 1899.82,
+			   "ConsumerRetailSales": 539,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 105.98,
+			   "ConsumerRetailSales": 37.9,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 1592.64,
+			   "ConsumerRetailSales": 557,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 956.32,
+			   "ConsumerRetailSales": 331.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 239.38,
+			   "ConsumerRetailSales": 75.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 264.58,
+			   "ConsumerRetailSales": 82.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1163.17,
+			   "ConsumerRetailSales": 347.4,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"1999"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 3161.66,
+			   "ConsumerRetailSales": 1443.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 1701.88,
+			   "ConsumerRetailSales": 736.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 5043.96,
+			   "ConsumerRetailSales": 1613.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 1845.72,
+			   "ConsumerRetailSales": 629.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1539.12,
+			   "ConsumerRetailSales": 484,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 4669.06,
+			   "ConsumerRetailSales": 1847.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 1951.51,
+			   "ConsumerRetailSales": 810.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 3151.4,
+			   "ConsumerRetailSales": 1094,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 4771.17,
+			   "ConsumerRetailSales": 1722.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 8553.69,
+			   "ConsumerRetailSales": 2604.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 6141.03,
+			   "ConsumerRetailSales": 2298.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 2902.09,
+			   "ConsumerRetailSales": 1054.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 3764.54,
+			   "ConsumerRetailSales": 1372.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2003.07,
+			   "ConsumerRetailSales": 704.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 8337.47,
+			   "ConsumerRetailSales": 2545.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 5052.99,
+			   "ConsumerRetailSales": 1786.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 3545.39,
+			   "ConsumerRetailSales": 1789.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 3551.49,
+			   "ConsumerRetailSales": 1364.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 10741.25,
+			   "ConsumerRetailSales": 4071.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2080.04,
+			   "ConsumerRetailSales": 859.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 526.82,
+			   "ConsumerRetailSales": 172.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 1791,
+			   "ConsumerRetailSales": 643.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 3928.2,
+			   "ConsumerRetailSales": 1523.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 1029.92,
+			   "ConsumerRetailSales": 343.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 2011.19,
+			   "ConsumerRetailSales": 583.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 117.8,
+			   "ConsumerRetailSales": 42.9,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 1804,
+			   "ConsumerRetailSales": 607.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1052.88,
+			   "ConsumerRetailSales": 362.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 263.68,
+			   "ConsumerRetailSales": 82.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 295.02,
+			   "ConsumerRetailSales": 90.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1363.56,
+			   "ConsumerRetailSales": 374.5,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2000"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 3707.96,
+			   "ConsumerRetailSales": 1593.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 1919.09,
+			   "ConsumerRetailSales": 832.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 5516.76,
+			   "ConsumerRetailSales": 1778.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2029.53,
+			   "ConsumerRetailSales": 679.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1713.81,
+			   "ConsumerRetailSales": 537.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 5033.08,
+			   "ConsumerRetailSales": 2034.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 2120.35,
+			   "ConsumerRetailSales": 909.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 3390.1,
+			   "ConsumerRetailSales": 1198.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 5210.12,
+			   "ConsumerRetailSales": 1861.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 9456.84,
+			   "ConsumerRetailSales": 2869,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 6898.34,
+			   "ConsumerRetailSales": 2555.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 3246.71,
+			   "ConsumerRetailSales": 1142.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 4072.85,
+			   "ConsumerRetailSales": 1499.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2175.68,
+			   "ConsumerRetailSales": 763.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 9195.04,
+			   "ConsumerRetailSales": 2834.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 5533.01,
+			   "ConsumerRetailSales": 1979.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 3880.53,
+			   "ConsumerRetailSales": 1975.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 3831.9,
+			   "ConsumerRetailSales": 1511.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 12039.25,
+			   "ConsumerRetailSales": 4515.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2279.34,
+			   "ConsumerRetailSales": 935.9,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 579.17,
+			   "ConsumerRetailSales": 187.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 1976.86,
+			   "ConsumerRetailSales": 699.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 4293.49,
+			   "ConsumerRetailSales": 1680.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 1133.27,
+			   "ConsumerRetailSales": 378,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 2138.31,
+			   "ConsumerRetailSales": 655.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 139.16,
+			   "ConsumerRetailSales": 49,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2010.62,
+			   "ConsumerRetailSales": 665.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1125.37,
+			   "ConsumerRetailSales": 395.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 300.13,
+			   "ConsumerRetailSales": 90.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 337.44,
+			   "ConsumerRetailSales": 98.9,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1491.6,
+			   "ConsumerRetailSales": 406.3,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2001"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 4315,
+			   "ConsumerRetailSales": 1744.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 2150.76,
+			   "ConsumerRetailSales": 941.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 6018.28,
+			   "ConsumerRetailSales": 1968.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2324.8,
+			   "ConsumerRetailSales": 755.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1940.94,
+			   "ConsumerRetailSales": 606,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 5458.22,
+			   "ConsumerRetailSales": 2258.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 2348.54,
+			   "ConsumerRetailSales": 1008.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 3637.2,
+			   "ConsumerRetailSales": 1320,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 5741.03,
+			   "ConsumerRetailSales": 2035.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 10606.85,
+			   "ConsumerRetailSales": 3215.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 8003.67,
+			   "ConsumerRetailSales": 2877.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 3519.72,
+			   "ConsumerRetailSales": 1228.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 4467.55,
+			   "ConsumerRetailSales": 1663.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2450.48,
+			   "ConsumerRetailSales": 832.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 10275.5,
+			   "ConsumerRetailSales": 3181.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 6035.48,
+			   "ConsumerRetailSales": 2189.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 4212.82,
+			   "ConsumerRetailSales": 2198.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 4151.54,
+			   "ConsumerRetailSales": 1678.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 13502.42,
+			   "ConsumerRetailSales": 5013.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2523.73,
+			   "ConsumerRetailSales": 1025.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 642.73,
+			   "ConsumerRetailSales": 204.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 2232.86,
+			   "ConsumerRetailSales": 763.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 4725.01,
+			   "ConsumerRetailSales": 1850.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 1243.43,
+			   "ConsumerRetailSales": 416.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 2312.82,
+			   "ConsumerRetailSales": 711.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 162.04,
+			   "ConsumerRetailSales": 53.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2253.39,
+			   "ConsumerRetailSales": 728.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1232.03,
+			   "ConsumerRetailSales": 433.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 340.65,
+			   "ConsumerRetailSales": 101,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 377.16,
+			   "ConsumerRetailSales": 108.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1612.65,
+			   "ConsumerRetailSales": 442.9,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2002"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 5007.21,
+			   "ConsumerRetailSales": 1916.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 2578.03,
+			   "ConsumerRetailSales": 922.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 6921.29,
+			   "ConsumerRetailSales": 2177.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2855.23,
+			   "ConsumerRetailSales": 729.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2388.38,
+			   "ConsumerRetailSales": 726.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 6002.54,
+			   "ConsumerRetailSales": 2330.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 2662.08,
+			   "ConsumerRetailSales": 1110.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 4057.4,
+			   "ConsumerRetailSales": 1376.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 6694.23,
+			   "ConsumerRetailSales": 2220.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 12442.87,
+			   "ConsumerRetailSales": 3566.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 9705.02,
+			   "ConsumerRetailSales": 3157.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 3923.11,
+			   "ConsumerRetailSales": 1331.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 4983.67,
+			   "ConsumerRetailSales": 1740.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2807.41,
+			   "ConsumerRetailSales": 923.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 12078.15,
+			   "ConsumerRetailSales": 3936.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 6867.7,
+			   "ConsumerRetailSales": 2426.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 4757.45,
+			   "ConsumerRetailSales": 2358.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 4659.99,
+			   "ConsumerRetailSales": 1816.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 15844.64,
+			   "ConsumerRetailSales": 5606,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2821.11,
+			   "ConsumerRetailSales": 857.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 713.96,
+			   "ConsumerRetailSales": 191.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 2555.72,
+			   "ConsumerRetailSales": 835.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 5333.09,
+			   "ConsumerRetailSales": 2091.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 1426.34,
+			   "ConsumerRetailSales": 458.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 2556.02,
+			   "ConsumerRetailSales": 782.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 185.09,
+			   "ConsumerRetailSales": 58.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 2587.72,
+			   "ConsumerRetailSales": 853.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1399.83,
+			   "ConsumerRetailSales": 474.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 390.2,
+			   "ConsumerRetailSales": 102.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 445.36,
+			   "ConsumerRetailSales": 120.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1886.35,
+			   "ConsumerRetailSales": 421.2,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2003"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 6033.21,
+			   "ConsumerRetailSales": 2191.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 3110.97,
+			   "ConsumerRetailSales": 1052.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 8477.63,
+			   "ConsumerRetailSales": 2522.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 3571.37,
+			   "ConsumerRetailSales": 884.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3041.07,
+			   "ConsumerRetailSales": 892,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 6672,
+			   "ConsumerRetailSales": 2642.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 3122.01,
+			   "ConsumerRetailSales": 1252.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 4750.6,
+			   "ConsumerRetailSales": 1555.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 8072.83,
+			   "ConsumerRetailSales": 2454.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 15003.6,
+			   "ConsumerRetailSales": 4159.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 11648.7,
+			   "ConsumerRetailSales": 3645.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 4759.3,
+			   "ConsumerRetailSales": 1503.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 5763.35,
+			   "ConsumerRetailSales": 1995.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 3456.7,
+			   "ConsumerRetailSales": 1059.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 15021.84,
+			   "ConsumerRetailSales": 4483.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 8553.79,
+			   "ConsumerRetailSales": 2808.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 5633.24,
+			   "ConsumerRetailSales": 2667.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 5641.94,
+			   "ConsumerRetailSales": 2069.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 18864.62,
+			   "ConsumerRetailSales": 6370.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3433.5,
+			   "ConsumerRetailSales": 973.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 819.66,
+			   "ConsumerRetailSales": 220.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 3034.58,
+			   "ConsumerRetailSales": 955,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 6379.63,
+			   "ConsumerRetailSales": 2384,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 1677.8,
+			   "ConsumerRetailSales": 517.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 3081.91,
+			   "ConsumerRetailSales": 884.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 220.34,
+			   "ConsumerRetailSales": 63.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 3175.58,
+			   "ConsumerRetailSales": 966.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1688.49,
+			   "ConsumerRetailSales": 535.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 466.1,
+			   "ConsumerRetailSales": 115.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 537.11,
+			   "ConsumerRetailSales": 137.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2209.09,
+			   "ConsumerRetailSales": 482.1,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2004"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 6969.52,
+			   "ConsumerRetailSales": 2911.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 3905.64,
+			   "ConsumerRetailSales": 1201.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 10012.11,
+			   "ConsumerRetailSales": 2969.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 4230.53,
+			   "ConsumerRetailSales": 1410.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3905.03,
+			   "ConsumerRetailSales": 1358.1,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 8047.26,
+			   "ConsumerRetailSales": 3014.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 3620.27,
+			   "ConsumerRetailSales": 1470.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 5513.7,
+			   "ConsumerRetailSales": 1773.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 9247.66,
+			   "ConsumerRetailSales": 2979.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 18598.69,
+			   "ConsumerRetailSales": 5735.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 13417.68,
+			   "ConsumerRetailSales": 4645.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 5350.17,
+			   "ConsumerRetailSales": 1776.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 6554.69,
+			   "ConsumerRetailSales": 2351.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 4056.76,
+			   "ConsumerRetailSales": 1244.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 18366.87,
+			   "ConsumerRetailSales": 6166.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 10587.42,
+			   "ConsumerRetailSales": 3380.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 6590.19,
+			   "ConsumerRetailSales": 2985.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 6596.1,
+			   "ConsumerRetailSales": 2474.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 22557.37,
+			   "ConsumerRetailSales": 7915.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3984.1,
+			   "ConsumerRetailSales": 1405.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 918.75,
+			   "ConsumerRetailSales": 270.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 3467.72,
+			   "ConsumerRetailSales": 1227.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 7385.1,
+			   "ConsumerRetailSales": 3003.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 2005.42,
+			   "ConsumerRetailSales": 615.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 3462.73,
+			   "ConsumerRetailSales": 1041.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 248.8,
+			   "ConsumerRetailSales": 73.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 3933.72,
+			   "ConsumerRetailSales": 1331.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 1933.98,
+			   "ConsumerRetailSales": 638.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 543.32,
+			   "ConsumerRetailSales": 161.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 612.61,
+			   "ConsumerRetailSales": 175.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2604.19,
+			   "ConsumerRetailSales": 640.2,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2005"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 8117.78,
+			   "ConsumerRetailSales": 3295.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 4462.74,
+			   "ConsumerRetailSales": 1383.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 11467.6,
+			   "ConsumerRetailSales": 3435.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 4878.61,
+			   "ConsumerRetailSales": 1635.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 4944.25,
+			   "ConsumerRetailSales": 1628.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 9304.52,
+			   "ConsumerRetailSales": 3471.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 4275.12,
+			   "ConsumerRetailSales": 1697.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 6211.8,
+			   "ConsumerRetailSales": 2029,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 10572.24,
+			   "ConsumerRetailSales": 3375.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 21742.05,
+			   "ConsumerRetailSales": 6706.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 15718.47,
+			   "ConsumerRetailSales": 5358,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 6112.5,
+			   "ConsumerRetailSales": 2056.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 7583.85,
+			   "ConsumerRetailSales": 2717.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 4820.53,
+			   "ConsumerRetailSales": 1448.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 21900.19,
+			   "ConsumerRetailSales": 7217.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 12362.79,
+			   "ConsumerRetailSales": 3932.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 7617.47,
+			   "ConsumerRetailSales": 3461.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 7688.67,
+			   "ConsumerRetailSales": 2869.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 26587.76,
+			   "ConsumerRetailSales": 9194.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 4746.16,
+			   "ConsumerRetailSales": 1620.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 1065.67,
+			   "ConsumerRetailSales": 313.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 3907.23,
+			   "ConsumerRetailSales": 1431.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 8690.24,
+			   "ConsumerRetailSales": 3472.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 2338.98,
+			   "ConsumerRetailSales": 710,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 3988.14,
+			   "ConsumerRetailSales": 1204.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 290.76,
+			   "ConsumerRetailSales": 90,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 4743.61,
+			   "ConsumerRetailSales": 1542.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 2277.35,
+			   "ConsumerRetailSales": 729.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 648.5,
+			   "ConsumerRetailSales": 182.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 725.9,
+			   "ConsumerRetailSales": 202.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3045.26,
+			   "ConsumerRetailSales": 733.2,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2006"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 9846.81,
+			   "ConsumerRetailSales": 3835.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 5252.76,
+			   "ConsumerRetailSales": 1650.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 13607.32,
+			   "ConsumerRetailSales": 4053.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 6024.45,
+			   "ConsumerRetailSales": 1953.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 6423.18,
+			   "ConsumerRetailSales": 1964,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 11164.3,
+			   "ConsumerRetailSales": 4097.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 5284.69,
+			   "ConsumerRetailSales": 2038.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 7104,
+			   "ConsumerRetailSales": 2386.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 12494.01,
+			   "ConsumerRetailSales": 3873.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 26018.48,
+			   "ConsumerRetailSales": 7985.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 18753.73,
+			   "ConsumerRetailSales": 6271.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 7360.92,
+			   "ConsumerRetailSales": 2451.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 9248.53,
+			   "ConsumerRetailSales": 3212.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 5800.25,
+			   "ConsumerRetailSales": 1718.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 25776.91,
+			   "ConsumerRetailSales": 8607.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 15012.46,
+			   "ConsumerRetailSales": 4690.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 9333.4,
+			   "ConsumerRetailSales": 4115.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 9439.6,
+			   "ConsumerRetailSales": 3419.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 31777.01,
+			   "ConsumerRetailSales": 10731.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 5823.41,
+			   "ConsumerRetailSales": 1932.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 1254.17,
+			   "ConsumerRetailSales": 370.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 4676.13,
+			   "ConsumerRetailSales": 1711.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 10562.39,
+			   "ConsumerRetailSales": 4105.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 2884.11,
+			   "ConsumerRetailSales": 858.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 4772.52,
+			   "ConsumerRetailSales": 1422.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 341.43,
+			   "ConsumerRetailSales": 112.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 5757.29,
+			   "ConsumerRetailSales": 1837.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 2703.98,
+			   "ConsumerRetailSales": 854.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 797.35,
+			   "ConsumerRetailSales": 212.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 919.11,
+			   "ConsumerRetailSales": 239.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3523.16,
+			   "ConsumerRetailSales": 857.5,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2007"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 11115,
+			   "ConsumerRetailSales": 4645.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 6719.01,
+			   "ConsumerRetailSales": 2078.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 16011.97,
+			   "ConsumerRetailSales": 4991.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 7315.4,
+			   "ConsumerRetailSales": 2421.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 8496.2,
+			   "ConsumerRetailSales": 2463,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 13668.58,
+			   "ConsumerRetailSales": 5032.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 6426.1,
+			   "ConsumerRetailSales": 2549.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 8314.37,
+			   "ConsumerRetailSales": 2928.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 14069.86,
+			   "ConsumerRetailSales": 4577.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 30981.98,
+			   "ConsumerRetailSales": 9905.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 21462.69,
+			   "ConsumerRetailSales": 7533.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 8851.66,
+			   "ConsumerRetailSales": 3045.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 10823.01,
+			   "ConsumerRetailSales": 3866.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 6971.05,
+			   "ConsumerRetailSales": 2142,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 30933.28,
+			   "ConsumerRetailSales": 10658.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 18018.53,
+			   "ConsumerRetailSales": 5815.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 11328.92,
+			   "ConsumerRetailSales": 5109.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 11555,
+			   "ConsumerRetailSales": 4222.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 36796.71,
+			   "ConsumerRetailSales": 12986.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 7021,
+			   "ConsumerRetailSales": 2395.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 1503.06,
+			   "ConsumerRetailSales": 463.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 5793.66,
+			   "ConsumerRetailSales": 2147.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 12601.23,
+			   "ConsumerRetailSales": 4944.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 3561.56,
+			   "ConsumerRetailSales": 1075.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 5692.12,
+			   "ConsumerRetailSales": 1764.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 394.85,
+			   "ConsumerRetailSales": 130,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 7314.58,
+			   "ConsumerRetailSales": 2317.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 3166.82,
+			   "ConsumerRetailSales": 1023.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 1018.62,
+			   "ConsumerRetailSales": 259.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1203.92,
+			   "ConsumerRetailSales": 295.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 4183.21,
+			   "ConsumerRetailSales": 1041.5,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2008"
+	},	
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 12153.03,
+			   "ConsumerRetailSales": 5309.9,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 7521.85,
+			   "ConsumerRetailSales": 2430.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 17235.48,
+			   "ConsumerRetailSales": 5764.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 7358.31,
+			   "ConsumerRetailSales": 2809,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 9740.25,
+			   "ConsumerRetailSales": 2855.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 15212.49,
+			   "ConsumerRetailSales": 5812.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 7278.75,
+			   "ConsumerRetailSales": 2957.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 8587,
+			   "ConsumerRetailSales": 3401.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 15046.45,
+			   "ConsumerRetailSales": 5173.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 34457.3,
+			   "ConsumerRetailSales": 11484.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 22990.35,
+			   "ConsumerRetailSales": 8622.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 10062.82,
+			   "ConsumerRetailSales": 3527.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 12236.53,
+			   "ConsumerRetailSales": 4481,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 7655.18,
+			   "ConsumerRetailSales": 2484.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 33896.65,
+			   "ConsumerRetailSales": 12363,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 19480.46,
+			   "ConsumerRetailSales": 6746.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 12961.1,
+			   "ConsumerRetailSales": 5928.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 13059.69,
+			   "ConsumerRetailSales": 4913.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 39482.56,
+			   "ConsumerRetailSales": 14891.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 7759.16,
+			   "ConsumerRetailSales": 2790.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 1654.21,
+			   "ConsumerRetailSales": 537.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 6530.01,
+			   "ConsumerRetailSales": 2479,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 14151.28,
+			   "ConsumerRetailSales": 5758.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 3912.68,
+			   "ConsumerRetailSales": 1247.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 6169.75,
+			   "ConsumerRetailSales": 2051.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 441.36,
+			   "ConsumerRetailSales": 156.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 8169.8,
+			   "ConsumerRetailSales": 2699.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 3387.56,
+			   "ConsumerRetailSales": 1183,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 1081.27,
+			   "ConsumerRetailSales": 300.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1353.31,
+			   "ConsumerRetailSales": 339.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 4277.05,
+			   "ConsumerRetailSales": 1177.5,
+			   "Type_Code": 1
+			 }
+			],
+		"year":"2009"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 14113.58,
+			   "ConsumerRetailSales": 6340.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 9224.46,
+			   "ConsumerRetailSales": 2860.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 20394.26,
+			   "ConsumerRetailSales": 6821.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 9200.86,
+			   "ConsumerRetailSales": 3318.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 11672,
+			   "ConsumerRetailSales": 3384,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 18457.27,
+			   "ConsumerRetailSales": 6887.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 8667.58,
+			   "ConsumerRetailSales": 3504.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 10368.6,
+			   "ConsumerRetailSales": 4039.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 17165.98,
+			   "ConsumerRetailSales": 6186.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 41425.48,
+			   "ConsumerRetailSales": 13606.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 27722.31,
+			   "ConsumerRetailSales": 10387,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 12359.33,
+			   "ConsumerRetailSales": 4300.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 14737.12,
+			   "ConsumerRetailSales": 5310,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 9451.26,
+			   "ConsumerRetailSales": 2971,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 39169.92,
+			   "ConsumerRetailSales": 14620.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 23092.36,
+			   "ConsumerRetailSales": 8004.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 15967.61,
+			   "ConsumerRetailSales": 7014.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 16037.96,
+			   "ConsumerRetailSales": 5952.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 46013.06,
+			   "ConsumerRetailSales": 17458.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 9569.85,
+			   "ConsumerRetailSales": 3312,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 2064.5,
+			   "ConsumerRetailSales": 663.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 7925.58,
+			   "ConsumerRetailSales": 3051.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 17185.48,
+			   "ConsumerRetailSales": 6884.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 4602.16,
+			   "ConsumerRetailSales": 1531.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 7224.18,
+			   "ConsumerRetailSales": 2555.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 507.46,
+			   "ConsumerRetailSales": 192.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 10123.48,
+			   "ConsumerRetailSales": 3257.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 4120.75,
+			   "ConsumerRetailSales": 1435.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 1350.43,
+			   "ConsumerRetailSales": 351,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1689.65,
+			   "ConsumerRetailSales": 418.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 5437.47,
+			   "ConsumerRetailSales": 1386.1,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2010"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 16251.93,
+			   "ConsumerRetailSales": 7222.2,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 11307.28,
+			   "ConsumerRetailSales": 3395.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 24515.76,
+			   "ConsumerRetailSales": 8035.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 11237.55,
+			   "ConsumerRetailSales": 3903.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 14359.88,
+			   "ConsumerRetailSales": 3991.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 22226.7,
+			   "ConsumerRetailSales": 8095.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 10568.83,
+			   "ConsumerRetailSales": 4119.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 12582,
+			   "ConsumerRetailSales": 4750.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 19195.69,
+			   "ConsumerRetailSales": 7185.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 49110.27,
+			   "ConsumerRetailSales": 16058.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 32318.85,
+			   "ConsumerRetailSales": 12532.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 15300.65,
+			   "ConsumerRetailSales": 5288.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 17560.18,
+			   "ConsumerRetailSales": 6276.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 11702.82,
+			   "ConsumerRetailSales": 3560.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 45361.85,
+			   "ConsumerRetailSales": 17155.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 26931.03,
+			   "ConsumerRetailSales": 9453.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 19632.26,
+			   "ConsumerRetailSales": 8363.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 19669.56,
+			   "ConsumerRetailSales": 7209,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 53210.28,
+			   "ConsumerRetailSales": 20297.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 11720.87,
+			   "ConsumerRetailSales": 3908.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 2522.66,
+			   "ConsumerRetailSales": 822.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 10011.37,
+			   "ConsumerRetailSales": 3782.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 21026.68,
+			   "ConsumerRetailSales": 8290.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 5701.84,
+			   "ConsumerRetailSales": 1899.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 8893.12,
+			   "ConsumerRetailSales": 3105.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 605.83,
+			   "ConsumerRetailSales": 237.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12512.3,
+			   "ConsumerRetailSales": 3900.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 5020.37,
+			   "ConsumerRetailSales": 1772.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 1670.44,
+			   "ConsumerRetailSales": 413.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2102.21,
+			   "ConsumerRetailSales": 515.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 6610.05,
+			   "ConsumerRetailSales": 1662.4,
+			   "Type_Code": 1
+			 }
+		],
+		"year":"2011"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 17879.4,
+			   "ConsumerRetailSales": 8123.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 12893.88,
+			   "ConsumerRetailSales": 3921.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 26575.01,
+			   "ConsumerRetailSales": 9254,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12112.83,
+			   "ConsumerRetailSales": 4506.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 15880.58,
+			   "ConsumerRetailSales": 4572.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 24846.43,
+			   "ConsumerRetailSales": 9304.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 11939.24,
+			   "ConsumerRetailSales": 4772.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 13691.58,
+			   "ConsumerRetailSales": 5491,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 20181.72,
+			   "ConsumerRetailSales": 7840.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 54058.22,
+			   "ConsumerRetailSales": 18411.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 34665.33,
+			   "ConsumerRetailSales": 14199.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 17212.05,
+			   "ConsumerRetailSales": 6142.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 19701.78,
+			   "ConsumerRetailSales": 7256.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12948.88,
+			   "ConsumerRetailSales": 4123.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 50013.24,
+			   "ConsumerRetailSales": 19651.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 29599.31,
+			   "ConsumerRetailSales": 10915.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 22250.45,
+			   "ConsumerRetailSales": 9682.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 22154.23,
+			   "ConsumerRetailSales": 8318.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 57067.92,
+			   "ConsumerRetailSales": 22677.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 13035.1,
+			   "ConsumerRetailSales": 4516.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 2855.54,
+			   "ConsumerRetailSales": 950.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 11409.6,
+			   "ConsumerRetailSales": 4403,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 23872.8,
+			   "ConsumerRetailSales": 9622,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 6852.2,
+			   "ConsumerRetailSales": 2266.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 10309.47,
+			   "ConsumerRetailSales": 3597.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 701.03,
+			   "ConsumerRetailSales": 277.9,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 14453.68,
+			   "ConsumerRetailSales": 4581.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 5650.2,
+			   "ConsumerRetailSales": 2064.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 1893.54,
+			   "ConsumerRetailSales": 480.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2341.29,
+			   "ConsumerRetailSales": 590.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 7505.31,
+			   "ConsumerRetailSales": 1916.1,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2012"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 19800.81,
+			   "ConsumerRetailSales": 8872.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 14442.01,
+			   "ConsumerRetailSales": 4470.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 28442.95,
+			   "ConsumerRetailSales": 10516.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12665.25,
+			   "ConsumerRetailSales": 5139.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 16916.5,
+			   "ConsumerRetailSales": 5114.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 27213.22,
+			   "ConsumerRetailSales": 10581.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 13046.4,
+			   "ConsumerRetailSales": 5426.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 14454.91,
+			   "ConsumerRetailSales": 6251.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 21818.15,
+			   "ConsumerRetailSales": 8557,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 59753.37,
+			   "ConsumerRetailSales": 20878.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 37756.59,
+			   "ConsumerRetailSales": 15970.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 19229.34,
+			   "ConsumerRetailSales": 7044.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 21868.49,
+			   "ConsumerRetailSales": 8275.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 14410.19,
+			   "ConsumerRetailSales": 4696.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 55230.32,
+			   "ConsumerRetailSales": 22294.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 32191.3,
+			   "ConsumerRetailSales": 12426.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 24791.83,
+			   "ConsumerRetailSales": 11035.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 24621.67,
+			   "ConsumerRetailSales": 9509.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 62474.79,
+			   "ConsumerRetailSales": 25453.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 14449.9,
+			   "ConsumerRetailSales": 5133.1,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 3177.56,
+			   "ConsumerRetailSales": 1090.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 12783.26,
+			   "ConsumerRetailSales": 5055.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 26392.07,
+			   "ConsumerRetailSales": 11001,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 8086.86,
+			   "ConsumerRetailSales": 2601.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 11832.31,
+			   "ConsumerRetailSales": 4112.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 815.67,
+			   "ConsumerRetailSales": 322.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 16205.45,
+			   "ConsumerRetailSales": 5245,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 6330.69,
+			   "ConsumerRetailSales": 2368.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 2122.06,
+			   "ConsumerRetailSales": 549.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2577.57,
+			   "ConsumerRetailSales": 668.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 8443.84,
+			   "ConsumerRetailSales": 2179.5,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2013"
+	},
+	{	
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 21330.83,
+			   "ConsumerRetailSales": 9638,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 15726.93,
+			   "ConsumerRetailSales": 4738.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 29421.15,
+			   "ConsumerRetailSales": 11820.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12761.49,
+			   "ConsumerRetailSales": 5717.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 17770.19,
+			   "ConsumerRetailSales": 5657.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 28626.58,
+			   "ConsumerRetailSales": 11857,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 13803.14,
+			   "ConsumerRetailSales": 6080.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 15039.38,
+			   "ConsumerRetailSales": 7015.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 23567.7,
+			   "ConsumerRetailSales": 9303.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 65088.32,
+			   "ConsumerRetailSales": 23458.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 40173.03,
+			   "ConsumerRetailSales": 17835.3,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 20848.75,
+			   "ConsumerRetailSales": 7957,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 24055.76,
+			   "ConsumerRetailSales": 9346.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 15714.63,
+			   "ConsumerRetailSales": 5292.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 59426.59,
+			   "ConsumerRetailSales": 25111.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 34938.24,
+			   "ConsumerRetailSales": 14005,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 27379.22,
+			   "ConsumerRetailSales": 12449.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 27037.32,
+			   "ConsumerRetailSales": 10723.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 67809.85,
+			   "ConsumerRetailSales": 28471.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 15672.89,
+			   "ConsumerRetailSales": 5772.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 3500.72,
+			   "ConsumerRetailSales": 1224.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 14262.6,
+			   "ConsumerRetailSales": 5710.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 28536.66,
+			   "ConsumerRetailSales": 12393,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 9266.39,
+			   "ConsumerRetailSales": 2936.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 12814.59,
+			   "ConsumerRetailSales": 4632.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 920.83,
+			   "ConsumerRetailSales": 364.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 17689.94,
+			   "ConsumerRetailSales": 5918.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 6836.82,
+			   "ConsumerRetailSales": 2668.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 2303.32,
+			   "ConsumerRetailSales": 620.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2752.1,
+			   "ConsumerRetailSales": 737.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 9273.46,
+			   "ConsumerRetailSales": 2436.5,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2014"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 23014.59,
+			   "ConsumerRetailSales": 10338,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 16538.19,
+			   "ConsumerRetailSales": 5257.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 29806.11,
+			   "ConsumerRetailSales": 12990.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 12766.49,
+			   "ConsumerRetailSales": 6033.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 17831.51,
+			   "ConsumerRetailSales": 6107.7,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 28669.02,
+			   "ConsumerRetailSales": 12787.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 14063.13,
+			   "ConsumerRetailSales": 6651.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 15083.67,
+			   "ConsumerRetailSales": 7640.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 25123.45,
+			   "ConsumerRetailSales": 10131.5,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 70116.38,
+			   "ConsumerRetailSales": 25876.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 42886.49,
+			   "ConsumerRetailSales": 19784.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 22005.63,
+			   "ConsumerRetailSales": 8908,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 25979.82,
+			   "ConsumerRetailSales": 10505.9,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 16723.78,
+			   "ConsumerRetailSales": 5925.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 63002.33,
+			   "ConsumerRetailSales": 27761.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 37002.16,
+			   "ConsumerRetailSales": 15740.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 29550.19,
+			   "ConsumerRetailSales": 14003.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 28902.21,
+			   "ConsumerRetailSales": 12024,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 72812.55,
+			   "ConsumerRetailSales": 31517.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 16803.12,
+			   "ConsumerRetailSales": 6348.1,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 3702.76,
+			   "ConsumerRetailSales": 1325.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 15717.27,
+			   "ConsumerRetailSales": 6424,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 30053.1,
+			   "ConsumerRetailSales": 13877.7,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 10502.56,
+			   "ConsumerRetailSales": 3283,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 13619.17,
+			   "ConsumerRetailSales": 5103.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1026.39,
+			   "ConsumerRetailSales": 408.5,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 18021.86,
+			   "ConsumerRetailSales": 6578.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 6790.32,
+			   "ConsumerRetailSales": 2907.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 2417.05,
+			   "ConsumerRetailSales": 691,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 2911.77,
+			   "ConsumerRetailSales": 789.6,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 9324.8,
+			   "ConsumerRetailSales": 2606,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2015"
+	},
+	{	
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 25669.13,
+			   "ConsumerRetailSales": 11005.1,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 17885.39,
+			   "ConsumerRetailSales": 5635.8,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 32070.45,
+			   "ConsumerRetailSales": 14364.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 13050.41,
+			   "ConsumerRetailSales": 6480.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 18128.1,
+			   "ConsumerRetailSales": 6700.8,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 22246.9,
+			   "ConsumerRetailSales": 13414.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 14776.8,
+			   "ConsumerRetailSales": 7310.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 15386.09,
+			   "ConsumerRetailSales": 8402.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 28178.65,
+			   "ConsumerRetailSales": 10946.6,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 77388.28,
+			   "ConsumerRetailSales": 28707.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 47251.36,
+			   "ConsumerRetailSales": 21970.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 24407.62,
+			   "ConsumerRetailSales": 10000.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 28810.58,
+			   "ConsumerRetailSales": 11674.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 18499,
+			   "ConsumerRetailSales": 6634.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 68024.49,
+			   "ConsumerRetailSales": 30645.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 40471.79,
+			   "ConsumerRetailSales": 17618.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 32665.38,
+			   "ConsumerRetailSales": 15649.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 31551.37,
+			   "ConsumerRetailSales": 13436.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 80854.91,
+			   "ConsumerRetailSales": 34739.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 18317.64,
+			   "ConsumerRetailSales": 7027.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 4053.2,
+			   "ConsumerRetailSales": 1453.7,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 17740.59,
+			   "ConsumerRetailSales": 7271.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 32934.54,
+			   "ConsumerRetailSales": 15601.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 11776.73,
+			   "ConsumerRetailSales": 3709,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 14788.42,
+			   "ConsumerRetailSales": 5722.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1151.41,
+			   "ConsumerRetailSales": 459.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 19399.59,
+			   "ConsumerRetailSales": 7367.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 7200.37,
+			   "ConsumerRetailSales": 3184.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 2572.49,
+			   "ConsumerRetailSales": 767.3,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3168.59,
+			   "ConsumerRetailSales": 850.1,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 9649.7,
+			   "ConsumerRetailSales": 2825.9,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2016"
+	},
+	{
+		"regions":[
+			 {
+			   "Region": "Beijing",
+			   "Type": "Municipality",
+			   "GrossProduct": 28014.94,
+			   "ConsumerRetailSales": 11575.4,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Tianjin",
+			   "Type": "Municipality",
+			   "GrossProduct": 18549.19,
+			   "ConsumerRetailSales": 5729.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Hebei",
+			   "Type": "Coastal",
+			   "GrossProduct": 34016.32,
+			   "ConsumerRetailSales": 15907.6,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Shanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 15528.42,
+			   "ConsumerRetailSales": 6918.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Inner Mongolia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 16096.21,
+			   "ConsumerRetailSales": 7160.2,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Liaoning",
+			   "Type": "Coastal",
+			   "GrossProduct": 23409.24,
+			   "ConsumerRetailSales": 13807.2,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jilin",
+			   "Type": "Interior",
+			   "GrossProduct": 14944.53,
+			   "ConsumerRetailSales": 7855.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Heilongjiang",
+			   "Type": "Interior",
+			   "GrossProduct": 15902.68,
+			   "ConsumerRetailSales": 9099.2,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shanghai",
+			   "Type": "Municipality",
+			   "GrossProduct": 30632.99,
+			   "ConsumerRetailSales": 11830.3,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Jiangsu",
+			   "Type": "Coastal",
+			   "GrossProduct": 85869.76,
+			   "ConsumerRetailSales": 31737.4,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Zhejiang",
+			   "Type": "Coastal",
+			   "GrossProduct": 51768.26,
+			   "ConsumerRetailSales": 24308.5,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Anhui",
+			   "Type": "Interior",
+			   "GrossProduct": 27018,
+			   "ConsumerRetailSales": 11192.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Fujian",
+			   "Type": "Coastal",
+			   "GrossProduct": 32182.09,
+			   "ConsumerRetailSales": 13013,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Jiangxi",
+			   "Type": "Interior",
+			   "GrossProduct": 20006.31,
+			   "ConsumerRetailSales": 7448.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Shandong",
+			   "Type": "Coastal",
+			   "GrossProduct": 72634.15,
+			   "ConsumerRetailSales": 33649,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Henan",
+			   "Type": "Interior",
+			   "GrossProduct": 44552.83,
+			   "ConsumerRetailSales": 19666.8,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hubei",
+			   "Type": "Interior",
+			   "GrossProduct": 35478.09,
+			   "ConsumerRetailSales": 17394.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Hunan",
+			   "Type": "Interior",
+			   "GrossProduct": 33902.96,
+			   "ConsumerRetailSales": 14854.9,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guangdong",
+			   "Type": "Coastal",
+			   "GrossProduct": 89705.23,
+			   "ConsumerRetailSales": 38200.1,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Guangxi",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 18523.26,
+			   "ConsumerRetailSales": 7813,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Hainan",
+			   "Type": "Coastal",
+			   "GrossProduct": 4462.54,
+			   "ConsumerRetailSales": 1618.8,
+			   "Type_Code": 2
+			 },
+			 {
+			   "Region": "Chongqing",
+			   "Type": "Municipality",
+			   "GrossProduct": 19424.73,
+			   "ConsumerRetailSales": 8067.7,
+			   "Type_Code": 4
+			 },
+			 {
+			   "Region": "Sichuan",
+			   "Type": "Interior",
+			   "GrossProduct": 36980.22,
+			   "ConsumerRetailSales": 17480.5,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Guizhou",
+			   "Type": "Interior",
+			   "GrossProduct": 13540.83,
+			   "ConsumerRetailSales": 4154,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Yunnan",
+			   "Type": "Interior",
+			   "GrossProduct": 16376.34,
+			   "ConsumerRetailSales": 6423.1,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Tibet",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 1310.92,
+			   "ConsumerRetailSales": 523.3,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Shaanxi",
+			   "Type": "Interior",
+			   "GrossProduct": 21898.81,
+			   "ConsumerRetailSales": 8236.4,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Gansu",
+			   "Type": "Interior",
+			   "GrossProduct": 7459.9,
+			   "ConsumerRetailSales": 3426.6,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Qinghai",
+			   "Type": "Interior",
+			   "GrossProduct": 2624.83,
+			   "ConsumerRetailSales": 839,
+			   "Type_Code": 3
+			 },
+			 {
+			   "Region": "Ningxia",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 3443.56,
+			   "ConsumerRetailSales": 930.4,
+			   "Type_Code": 1
+			 },
+			 {
+			   "Region": "Xinjiang",
+			   "Type": "Autonomous Region",
+			   "GrossProduct": 10881.96,
+			   "ConsumerRetailSales": 3044.6,
+			   "Type_Code": 1
+			 }
+		],	
+		"year":"2017"
+	}	
+]		
